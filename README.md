@@ -4,7 +4,7 @@ Coursework project applying customer relationship management and clustering meth
 
 ## Repository contents
 
-- `CW1_CRM.ipynb` — analysis notebook, including data preparation, validation, feature engineering, clustering and visualisations.
+- `w2151872_CW1_CRM.ipynb` — analysis notebook, including data preparation, validation, feature engineering, clustering and visualisations.
 - `algorithm_comparison.csv` — comparison of clustering algorithm results.
 - `cluster_assignments.csv` — share-level cluster labels.
 - `common_feature_table.csv` — feature values for shares included in the common analysis set.
