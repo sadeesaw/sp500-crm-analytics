@@ -1,15 +1,32 @@
 # S&P 500 CRM Analytics
 
-This project analyses S&P 500 shares using weekly risk-return features and adapted Recency, Frequency and Monetary (RFM) features. It compares Ward hierarchical clustering and K-Means, reviews sector composition, and tests how removing Monetary affects the RFM clusters.
+Coursework project applying customer relationship management and clustering methods to S&P 500 share data. The notebook calculates share-level risk-return and trading-activity features, compares clustering methods, and examines cluster composition.
 
-## Files
+## Repository contents
 
-- `CW1_CRM.ipynb` — data preparation, feature engineering, clustering and analysis
-- `cw1_data_snapshots.zip` — exported data snapshots
-- `data_mart_diagram.jpg` — proposed analytics data mart diagram
+- `CW1_CRM.ipynb` — analysis notebook, including data preparation, validation, feature engineering, clustering and visualisations.
+- `algorithm_comparison.csv` — comparison of clustering algorithm results.
+- `cluster_assignments.csv` — share-level cluster labels.
+- `common_feature_table.csv` — feature values for shares included in the common analysis set.
+- `exclusion_log.csv` — shares excluded from the analysis and the recorded reasons.
+- `feature_table.csv` — calculated share-level features.
+- `monetary_profile_comparison.csv` — comparison of monetary profiles across selected cluster solutions.
+- `package_versions.csv` — software package versions recorded for the analysis.
+- `run_metadata.csv` — analysis run and study-period metadata.
+- `sector_composition.csv` — sector composition of the selected clusters.
+- `validation_summary.csv` — summary of data and feature validation checks.
+- `weekly_returns.csv` — weekly share and benchmark return data used in the risk-return analysis.
+
+## Data and reproducibility
+
+The notebook retrieves market data using Yahoo Finance through `yfinance` and obtains S&P 500 constituent information as documented in the notebook. The CSV files in the repository are supporting analysis outputs.
+
+The large daily data snapshots were omitted from the repository because of their file size. As a result, rerunning the notebook may require internet access and a fresh data download. Data availability can change; some tickers may fail to download and are handled as exclusions in the notebook.
 
 ## Running the notebook
 
-Open `CW1_CRM.ipynb` in Google Colab and run the cells from top to bottom. The notebook uses Python libraries including pandas, NumPy, yfinance, Matplotlib, Seaborn, SciPy and scikit-learn. Data retrieval requires internet access.
+Open `CW1_CRM.ipynb` in Google Colab or Jupyter Notebook and run the cells from top to bottom. The notebook records its package versions and includes the data validation and exclusion steps.
 
-The notebook uses the S&P 500 constituent list from Wikipedia and market data retrieved from Yahoo Finance via yfinance. Since the current constituent list is applied retrospectively to the 2021–2024 study period, the analysis may be affected by survivorship bias.
+## Data-use note
+
+This project is for coursework and analytical demonstration. Cluster assignments are descriptive and should not be treated as investment advice.
