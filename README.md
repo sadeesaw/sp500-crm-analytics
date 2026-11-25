@@ -25,7 +25,7 @@ The large daily data snapshots were omitted from the repository because of their
 
 ## Running the notebook
 
-Open `CW1_CRM.ipynb` in Google Colab or Jupyter Notebook and run the cells from top to bottom. The notebook records its package versions and includes the data validation and exclusion steps.
+Open `w2151872_CW1_CRM.ipynb` in Google Colab or Jupyter Notebook and run the cells from top to bottom. The notebook records its package versions and includes the data validation and exclusion steps.
 
 ## Data-use note
 
