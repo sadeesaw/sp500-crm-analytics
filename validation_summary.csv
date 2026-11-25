@@ -1,0 +1,8 @@
+Check,Result,Details
+Included and excluded shares recorded,pass,498 included; 5 with no study-period data
+Common observation date set,pass,2024-12-31
+Latest event exceeds its preceding-20-session threshold,pass,498 of 498 latest events qualify
+No-event Recency values remain missing,pass,0 shares have no qualifying event
+Frequency has 60 valid sessions and thresholds,pass,498 shares have complete windows
+Monetary has 60 valid close and volume sessions,pass,498 shares have complete windows
+Combined required features have no missing values,pass,498 shares in the common feature table

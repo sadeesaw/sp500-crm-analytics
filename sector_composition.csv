@@ -1,0 +1,86 @@
+Feature_Set,Algorithm,Cluster,GICS_Sector,Share_Count,Cluster_Percent
+risk_return,kmeans,0,Health Care,58,16.6
+risk_return,kmeans,0,Financials,56,16.0
+risk_return,kmeans,0,Industrials,53,15.1
+risk_return,kmeans,0,Consumer Staples,31,8.9
+risk_return,kmeans,0,Utilities,28,8.0
+risk_return,kmeans,0,Real Estate,27,7.7
+risk_return,kmeans,0,Consumer Discretionary,26,7.4
+risk_return,kmeans,0,Information Technology,22,6.3
+risk_return,kmeans,0,Materials,18,5.1
+risk_return,kmeans,0,Energy,16,4.6
+risk_return,kmeans,0,Communication Services,15,4.3
+risk_return,kmeans,1,Information Technology,52,35.1
+risk_return,kmeans,1,Industrials,28,18.9
+risk_return,kmeans,1,Consumer Discretionary,21,14.2
+risk_return,kmeans,1,Financials,20,13.5
+risk_return,kmeans,1,Communication Services,7,4.7
+risk_return,kmeans,1,Materials,6,4.1
+risk_return,kmeans,1,Energy,5,3.4
+risk_return,kmeans,1,Real Estate,3,2.0
+risk_return,kmeans,1,Utilities,3,2.0
+risk_return,kmeans,1,Health Care,2,1.4
+risk_return,kmeans,1,Consumer Staples,1,0.7
+risk_return,ward,0,Information Technology,52,35.1
+risk_return,ward,0,Industrials,27,18.2
+risk_return,ward,0,Consumer Discretionary,21,14.2
+risk_return,ward,0,Financials,20,13.5
+risk_return,ward,0,Communication Services,7,4.7
+risk_return,ward,0,Health Care,6,4.1
+risk_return,ward,0,Materials,6,4.1
+risk_return,ward,0,Energy,4,2.7
+risk_return,ward,0,Real Estate,3,2.0
+risk_return,ward,0,Utilities,2,1.4
+risk_return,ward,1,Financials,56,16.0
+risk_return,ward,1,Health Care,54,15.4
+risk_return,ward,1,Industrials,54,15.4
+risk_return,ward,1,Consumer Staples,32,9.1
+risk_return,ward,1,Utilities,29,8.3
+risk_return,ward,1,Real Estate,27,7.7
+risk_return,ward,1,Consumer Discretionary,26,7.4
+risk_return,ward,1,Information Technology,22,6.3
+risk_return,ward,1,Materials,18,5.1
+risk_return,ward,1,Energy,17,4.9
+risk_return,ward,1,Communication Services,15,4.3
+trading_activity,kmeans,0,Information Technology,15,20.8
+trading_activity,kmeans,0,Financials,12,16.7
+trading_activity,kmeans,0,Utilities,10,13.9
+trading_activity,kmeans,0,Consumer Discretionary,8,11.1
+trading_activity,kmeans,0,Health Care,8,11.1
+trading_activity,kmeans,0,Materials,6,8.3
+trading_activity,kmeans,0,Consumer Staples,5,6.9
+trading_activity,kmeans,0,Industrials,5,6.9
+trading_activity,kmeans,0,Communication Services,2,2.8
+trading_activity,kmeans,0,Energy,1,1.4
+trading_activity,kmeans,1,Industrials,76,17.8
+trading_activity,kmeans,1,Financials,64,15.0
+trading_activity,kmeans,1,Information Technology,59,13.8
+trading_activity,kmeans,1,Health Care,52,12.2
+trading_activity,kmeans,1,Consumer Discretionary,39,9.2
+trading_activity,kmeans,1,Real Estate,30,7.0
+trading_activity,kmeans,1,Consumer Staples,27,6.3
+trading_activity,kmeans,1,Utilities,21,4.9
+trading_activity,kmeans,1,Communication Services,20,4.7
+trading_activity,kmeans,1,Energy,20,4.7
+trading_activity,kmeans,1,Materials,18,4.2
+trading_activity,ward,0,Industrials,72,17.8
+trading_activity,ward,0,Financials,62,15.3
+trading_activity,ward,0,Information Technology,54,13.4
+trading_activity,ward,0,Health Care,51,12.6
+trading_activity,ward,0,Consumer Discretionary,37,9.2
+trading_activity,ward,0,Real Estate,30,7.4
+trading_activity,ward,0,Consumer Staples,24,5.9
+trading_activity,ward,0,Utilities,21,5.2
+trading_activity,ward,0,Energy,19,4.7
+trading_activity,ward,0,Communication Services,18,4.5
+trading_activity,ward,0,Materials,16,4.0
+trading_activity,ward,1,Information Technology,20,21.3
+trading_activity,ward,1,Financials,14,14.9
+trading_activity,ward,1,Consumer Discretionary,10,10.6
+trading_activity,ward,1,Utilities,10,10.6
+trading_activity,ward,1,Health Care,9,9.6
+trading_activity,ward,1,Industrials,9,9.6
+trading_activity,ward,1,Consumer Staples,8,8.5
+trading_activity,ward,1,Materials,8,8.5
+trading_activity,ward,1,Communication Services,4,4.3
+trading_activity,ward,1,Energy,2,2.1

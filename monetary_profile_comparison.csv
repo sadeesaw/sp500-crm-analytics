@@ -1,0 +1,5 @@
+Cluster,Solution,Cluster_Size,Mean_Traded_Value_USD,Median_Traded_Value_USD
+0,ward rfm baseline,404,38208977052.46074,15473089887.630463
+1,ward rfm baseline,94,45650062907.31158,20950199883.75683
+0,ward recency and frequency only,405,37688544564.069275,15456788791.430664
+1,ward recency and frequency only,93,47996474129.391075,21052589467.380142

@@ -1,0 +1,2 @@
+Data_Sources,Ticker_List_Retrieval_Date,Start_Date_Inclusive,End_Date_Exclusive,Observation_Date,Benchmark,Included_Shares,Excluded_Shares
+Wikipedia and Yahoo Finance,2026-11-25,2021-01-01,2025-01-01,2024-12-31,^GSPC,498,5

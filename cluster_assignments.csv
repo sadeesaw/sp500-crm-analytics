@@ -1,0 +1,2491 @@
+Ticker,GICS_Sector,Feature_Set,Algorithm,Cluster_Count,Cluster
+MMM,Industrials,risk_return,ward,2,1
+AOS,Industrials,risk_return,ward,2,1
+ABT,Health Care,risk_return,ward,2,1
+ABBV,Health Care,risk_return,ward,2,1
+ACN,Information Technology,risk_return,ward,2,1
+ADBE,Information Technology,risk_return,ward,2,0
+AMD,Information Technology,risk_return,ward,2,0
+AES,Utilities,risk_return,ward,2,1
+AFL,Financials,risk_return,ward,2,1
+A,Health Care,risk_return,ward,2,1
+APD,Materials,risk_return,ward,2,1
+ABNB,Consumer Discretionary,risk_return,ward,2,0
+AKAM,Information Technology,risk_return,ward,2,1
+ALB,Materials,risk_return,ward,2,0
+ARE,Real Estate,risk_return,ward,2,1
+ALGN,Health Care,risk_return,ward,2,0
+ALLE,Industrials,risk_return,ward,2,1
+LNT,Utilities,risk_return,ward,2,1
+ALL,Financials,risk_return,ward,2,1
+GOOGL,Communication Services,risk_return,ward,2,0
+GOOG,Communication Services,risk_return,ward,2,0
+MO,Consumer Staples,risk_return,ward,2,1
+AMZN,Consumer Discretionary,risk_return,ward,2,0
+AMCR,Materials,risk_return,ward,2,1
+AEE,Utilities,risk_return,ward,2,1
+AEP,Utilities,risk_return,ward,2,1
+AXP,Financials,risk_return,ward,2,0
+AIG,Financials,risk_return,ward,2,1
+AMT,Real Estate,risk_return,ward,2,1
+AWK,Utilities,risk_return,ward,2,1
+AMP,Financials,risk_return,ward,2,0
+AME,Industrials,risk_return,ward,2,1
+AMGN,Health Care,risk_return,ward,2,1
+APH,Information Technology,risk_return,ward,2,0
+ADI,Information Technology,risk_return,ward,2,1
+AON,Financials,risk_return,ward,2,1
+APA,Energy,risk_return,ward,2,1
+APO,Financials,risk_return,ward,2,0
+AAPL,Information Technology,risk_return,ward,2,0
+AMAT,Information Technology,risk_return,ward,2,0
+APP,Communication Services,risk_return,ward,2,0
+APTV,Consumer Discretionary,risk_return,ward,2,1
+ACGL,Financials,risk_return,ward,2,1
+ADM,Consumer Staples,risk_return,ward,2,1
+ARES,Financials,risk_return,ward,2,0
+ANET,Information Technology,risk_return,ward,2,0
+AJG,Financials,risk_return,ward,2,1
+AIZ,Financials,risk_return,ward,2,1
+T,Communication Services,risk_return,ward,2,1
+ATO,Utilities,risk_return,ward,2,1
+ADSK,Information Technology,risk_return,ward,2,0
+ADP,Industrials,risk_return,ward,2,1
+AZO,Consumer Discretionary,risk_return,ward,2,1
+AVY,Materials,risk_return,ward,2,1
+AXON,Industrials,risk_return,ward,2,0
+BKR,Energy,risk_return,ward,2,1
+BALL,Materials,risk_return,ward,2,1
+BAC,Financials,risk_return,ward,2,1
+BAX,Health Care,risk_return,ward,2,1
+BDX,Health Care,risk_return,ward,2,1
+BRK-B,Financials,risk_return,ward,2,1
+BBY,Consumer Discretionary,risk_return,ward,2,1
+TECH,Health Care,risk_return,ward,2,1
+BIIB,Health Care,risk_return,ward,2,1
+BLK,Financials,risk_return,ward,2,0
+BX,Financials,risk_return,ward,2,0
+XYZ,Financials,risk_return,ward,2,0
+BE,Industrials,risk_return,ward,2,0
+BNY,Financials,risk_return,ward,2,1
+BA,Industrials,risk_return,ward,2,1
+BKNG,Consumer Discretionary,risk_return,ward,2,0
+BSX,Health Care,risk_return,ward,2,1
+BMY,Health Care,risk_return,ward,2,1
+AVGO,Information Technology,risk_return,ward,2,0
+BR,Industrials,risk_return,ward,2,1
+BRO,Financials,risk_return,ward,2,1
+BF-B,Consumer Staples,risk_return,ward,2,1
+BG,Consumer Staples,risk_return,ward,2,1
+BXP,Real Estate,risk_return,ward,2,1
+CHRW,Industrials,risk_return,ward,2,1
+CDNS,Information Technology,risk_return,ward,2,0
+CPT,Real Estate,risk_return,ward,2,1
+COF,Financials,risk_return,ward,2,0
+CAH,Health Care,risk_return,ward,2,1
+CCL,Consumer Discretionary,risk_return,ward,2,0
+CARR,Industrials,risk_return,ward,2,0
+CVNA,Consumer Discretionary,risk_return,ward,2,0
+CASY,Consumer Staples,risk_return,ward,2,1
+CAT,Industrials,risk_return,ward,2,1
+CBOE,Financials,risk_return,ward,2,1
+CBRE,Real Estate,risk_return,ward,2,0
+CDW,Information Technology,risk_return,ward,2,1
+COR,Health Care,risk_return,ward,2,1
+CNC,Health Care,risk_return,ward,2,1
+CNP,Utilities,risk_return,ward,2,1
+CF,Materials,risk_return,ward,2,1
+CRL,Health Care,risk_return,ward,2,0
+SCHW,Financials,risk_return,ward,2,1
+CHTR,Communication Services,risk_return,ward,2,1
+CVX,Energy,risk_return,ward,2,1
+CMG,Consumer Discretionary,risk_return,ward,2,0
+CB,Financials,risk_return,ward,2,1
+CHD,Consumer Staples,risk_return,ward,2,1
+CIEN,Information Technology,risk_return,ward,2,0
+CI,Health Care,risk_return,ward,2,1
+CINF,Financials,risk_return,ward,2,1
+CTAS,Industrials,risk_return,ward,2,0
+CSCO,Information Technology,risk_return,ward,2,1
+C,Financials,risk_return,ward,2,1
+CFG,Financials,risk_return,ward,2,1
+CLX,Consumer Staples,risk_return,ward,2,1
+CME,Financials,risk_return,ward,2,1
+CMS,Utilities,risk_return,ward,2,1
+KO,Consumer Staples,risk_return,ward,2,1
+CTSH,Information Technology,risk_return,ward,2,1
+COHR,Information Technology,risk_return,ward,2,0
+COIN,Financials,risk_return,ward,2,0
+CL,Consumer Staples,risk_return,ward,2,1
+CMCSA,Communication Services,risk_return,ward,2,1
+FIX,Industrials,risk_return,ward,2,0
+COP,Energy,risk_return,ward,2,1
+ED,Utilities,risk_return,ward,2,1
+STZ,Consumer Staples,risk_return,ward,2,1
+CEG,Utilities,risk_return,ward,2,0
+COO,Health Care,risk_return,ward,2,1
+CPRT,Industrials,risk_return,ward,2,0
+GLW,Information Technology,risk_return,ward,2,1
+CPAY,Financials,risk_return,ward,2,1
+CSGP,Real Estate,risk_return,ward,2,1
+COST,Consumer Staples,risk_return,ward,2,1
+CRH,Materials,risk_return,ward,2,0
+CRWD,Information Technology,risk_return,ward,2,0
+CCI,Real Estate,risk_return,ward,2,1
+CSX,Industrials,risk_return,ward,2,1
+CMI,Industrials,risk_return,ward,2,1
+CVS,Health Care,risk_return,ward,2,1
+DHR,Health Care,risk_return,ward,2,1
+DRI,Consumer Discretionary,risk_return,ward,2,1
+DDOG,Information Technology,risk_return,ward,2,0
+DVA,Health Care,risk_return,ward,2,1
+DECK,Consumer Discretionary,risk_return,ward,2,0
+DE,Industrials,risk_return,ward,2,1
+DELL,Information Technology,risk_return,ward,2,0
+DAL,Industrials,risk_return,ward,2,0
+DVN,Energy,risk_return,ward,2,1
+DXCM,Health Care,risk_return,ward,2,1
+FANG,Energy,risk_return,ward,2,0
+DLR,Real Estate,risk_return,ward,2,1
+DG,Consumer Staples,risk_return,ward,2,1
+DLTR,Consumer Staples,risk_return,ward,2,1
+D,Utilities,risk_return,ward,2,1
+DPZ,Consumer Discretionary,risk_return,ward,2,1
+DASH,Consumer Discretionary,risk_return,ward,2,0
+DOV,Industrials,risk_return,ward,2,1
+DOW,Materials,risk_return,ward,2,1
+DHI,Consumer Discretionary,risk_return,ward,2,0
+DTE,Utilities,risk_return,ward,2,1
+DUK,Utilities,risk_return,ward,2,1
+DD,Industrials,risk_return,ward,2,1
+ETN,Industrials,risk_return,ward,2,0
+EBAY,Consumer Discretionary,risk_return,ward,2,1
+ECHO,Communication Services,risk_return,ward,2,1
+ECL,Materials,risk_return,ward,2,1
+EIX,Utilities,risk_return,ward,2,1
+EW,Health Care,risk_return,ward,2,1
+ELV,Health Care,risk_return,ward,2,1
+EME,Industrials,risk_return,ward,2,0
+EMR,Industrials,risk_return,ward,2,1
+ETR,Utilities,risk_return,ward,2,1
+EOG,Energy,risk_return,ward,2,1
+EQT,Energy,risk_return,ward,2,0
+EFX,Industrials,risk_return,ward,2,0
+EQIX,Real Estate,risk_return,ward,2,1
+ERIE,Financials,risk_return,ward,2,1
+ESS,Real Estate,risk_return,ward,2,1
+EL,Consumer Staples,risk_return,ward,2,1
+EG,Financials,risk_return,ward,2,1
+EVRG,Utilities,risk_return,ward,2,1
+P,Information Technology,risk_return,ward,2,0
+ES,Utilities,risk_return,ward,2,1
+EXC,Utilities,risk_return,ward,2,1
+EXE,Energy,risk_return,ward,2,1
+EXPE,Consumer Discretionary,risk_return,ward,2,0
+EXPD,Industrials,risk_return,ward,2,1
+EXR,Real Estate,risk_return,ward,2,1
+XOM,Energy,risk_return,ward,2,1
+FFIV,Information Technology,risk_return,ward,2,1
+FDS,Financials,risk_return,ward,2,1
+FICO,Information Technology,risk_return,ward,2,0
+FAST,Industrials,risk_return,ward,2,1
+FRT,Real Estate,risk_return,ward,2,1
+FDX,Industrials,risk_return,ward,2,1
+FERG,Industrials,risk_return,ward,2,1
+FIS,Financials,risk_return,ward,2,1
+FITB,Financials,risk_return,ward,2,1
+FSLR,Information Technology,risk_return,ward,2,0
+FE,Utilities,risk_return,ward,2,1
+FISV,Financials,risk_return,ward,2,1
+FLEX,Information Technology,risk_return,ward,2,0
+F,Consumer Discretionary,risk_return,ward,2,0
+FTNT,Information Technology,risk_return,ward,2,0
+FTV,Industrials,risk_return,ward,2,1
+FOXA,Communication Services,risk_return,ward,2,1
+FOX,Communication Services,risk_return,ward,2,1
+BEN,Financials,risk_return,ward,2,1
+FCX,Materials,risk_return,ward,2,0
+GRMN,Consumer Discretionary,risk_return,ward,2,1
+IT,Information Technology,risk_return,ward,2,0
+GE,Industrials,risk_return,ward,2,0
+GEHC,Health Care,risk_return,ward,2,1
+GEV,Industrials,risk_return,ward,2,0
+GEN,Information Technology,risk_return,ward,2,1
+GNRC,Industrials,risk_return,ward,2,0
+GD,Industrials,risk_return,ward,2,1
+GIS,Consumer Staples,risk_return,ward,2,1
+GM,Consumer Discretionary,risk_return,ward,2,0
+GPC,Consumer Discretionary,risk_return,ward,2,1
+GILD,Health Care,risk_return,ward,2,1
+GPN,Financials,risk_return,ward,2,1
+GL,Financials,risk_return,ward,2,1
+GDDY,Information Technology,risk_return,ward,2,0
+GS,Financials,risk_return,ward,2,0
+HAL,Energy,risk_return,ward,2,1
+HIG,Financials,risk_return,ward,2,1
+HAS,Consumer Discretionary,risk_return,ward,2,1
+HCA,Health Care,risk_return,ward,2,1
+DOC,Real Estate,risk_return,ward,2,1
+HSIC,Health Care,risk_return,ward,2,1
+HSY,Consumer Staples,risk_return,ward,2,1
+HPE,Information Technology,risk_return,ward,2,0
+HLT,Consumer Discretionary,risk_return,ward,2,1
+HD,Consumer Discretionary,risk_return,ward,2,1
+HON,Industrials,risk_return,ward,2,1
+HRL,Consumer Staples,risk_return,ward,2,1
+HST,Real Estate,risk_return,ward,2,1
+HWM,Industrials,risk_return,ward,2,0
+HPQ,Information Technology,risk_return,ward,2,1
+HUBB,Industrials,risk_return,ward,2,1
+HUM,Health Care,risk_return,ward,2,1
+HBAN,Financials,risk_return,ward,2,1
+HII,Industrials,risk_return,ward,2,1
+IBM,Information Technology,risk_return,ward,2,1
+IEX,Industrials,risk_return,ward,2,1
+IDXX,Health Care,risk_return,ward,2,0
+ITW,Industrials,risk_return,ward,2,1
+ILMN,Health Care,risk_return,ward,2,1
+INCY,Health Care,risk_return,ward,2,1
+IR,Industrials,risk_return,ward,2,0
+PODD,Health Care,risk_return,ward,2,1
+INTC,Information Technology,risk_return,ward,2,1
+IBKR,Financials,risk_return,ward,2,1
+ICE,Financials,risk_return,ward,2,1
+IFF,Materials,risk_return,ward,2,1
+IP,Materials,risk_return,ward,2,1
+INTU,Information Technology,risk_return,ward,2,0
+ISRG,Health Care,risk_return,ward,2,0
+IVZ,Financials,risk_return,ward,2,0
+INVH,Real Estate,risk_return,ward,2,1
+IQV,Health Care,risk_return,ward,2,1
+IRM,Real Estate,risk_return,ward,2,0
+JBHT,Industrials,risk_return,ward,2,1
+JBL,Information Technology,risk_return,ward,2,0
+JKHY,Financials,risk_return,ward,2,1
+J,Industrials,risk_return,ward,2,1
+JNJ,Health Care,risk_return,ward,2,1
+JCI,Industrials,risk_return,ward,2,1
+JPM,Financials,risk_return,ward,2,1
+KDP,Consumer Staples,risk_return,ward,2,1
+KEY,Financials,risk_return,ward,2,1
+KEYS,Information Technology,risk_return,ward,2,1
+KMB,Consumer Staples,risk_return,ward,2,1
+KIM,Real Estate,risk_return,ward,2,1
+KMI,Energy,risk_return,ward,2,1
+KKR,Financials,risk_return,ward,2,0
+KLAC,Information Technology,risk_return,ward,2,0
+KHC,Consumer Staples,risk_return,ward,2,1
+KR,Consumer Staples,risk_return,ward,2,1
+LHX,Industrials,risk_return,ward,2,1
+LH,Health Care,risk_return,ward,2,1
+LRCX,Information Technology,risk_return,ward,2,0
+LVS,Consumer Discretionary,risk_return,ward,2,1
+LDOS,Industrials,risk_return,ward,2,1
+LEN,Consumer Discretionary,risk_return,ward,2,0
+LII,Industrials,risk_return,ward,2,0
+LLY,Health Care,risk_return,ward,2,0
+LIN,Materials,risk_return,ward,2,1
+LYV,Communication Services,risk_return,ward,2,0
+LMT,Industrials,risk_return,ward,2,1
+L,Financials,risk_return,ward,2,1
+LOW,Consumer Discretionary,risk_return,ward,2,1
+LULU,Consumer Discretionary,risk_return,ward,2,1
+LITE,Information Technology,risk_return,ward,2,0
+LYB,Materials,risk_return,ward,2,1
+MTB,Financials,risk_return,ward,2,1
+MPC,Energy,risk_return,ward,2,1
+MAR,Consumer Discretionary,risk_return,ward,2,1
+MRSH,Financials,risk_return,ward,2,1
+MLM,Materials,risk_return,ward,2,1
+MRVL,Information Technology,risk_return,ward,2,0
+MAS,Industrials,risk_return,ward,2,1
+MA,Financials,risk_return,ward,2,1
+MKC,Consumer Staples,risk_return,ward,2,1
+MCD,Consumer Discretionary,risk_return,ward,2,1
+MCK,Health Care,risk_return,ward,2,1
+MDT,Health Care,risk_return,ward,2,1
+MRK,Health Care,risk_return,ward,2,1
+META,Communication Services,risk_return,ward,2,0
+MET,Financials,risk_return,ward,2,1
+MTD,Health Care,risk_return,ward,2,1
+MGM,Consumer Discretionary,risk_return,ward,2,0
+MCHP,Information Technology,risk_return,ward,2,0
+MU,Information Technology,risk_return,ward,2,0
+MSFT,Information Technology,risk_return,ward,2,0
+MAA,Real Estate,risk_return,ward,2,1
+MRNA,Health Care,risk_return,ward,2,1
+MDLZ,Consumer Staples,risk_return,ward,2,1
+MPWR,Information Technology,risk_return,ward,2,0
+MNST,Consumer Staples,risk_return,ward,2,1
+MCO,Financials,risk_return,ward,2,0
+MS,Financials,risk_return,ward,2,0
+MOS,Materials,risk_return,ward,2,1
+MSI,Information Technology,risk_return,ward,2,1
+MSCI,Financials,risk_return,ward,2,0
+NDAQ,Financials,risk_return,ward,2,1
+NTAP,Information Technology,risk_return,ward,2,0
+NFLX,Communication Services,risk_return,ward,2,0
+NEM,Materials,risk_return,ward,2,1
+NWSA,Communication Services,risk_return,ward,2,1
+NWS,Communication Services,risk_return,ward,2,1
+NEE,Utilities,risk_return,ward,2,1
+NKE,Consumer Discretionary,risk_return,ward,2,1
+NI,Utilities,risk_return,ward,2,1
+NDSN,Industrials,risk_return,ward,2,1
+NSC,Industrials,risk_return,ward,2,1
+NTRS,Financials,risk_return,ward,2,1
+NOC,Industrials,risk_return,ward,2,1
+NCLH,Consumer Discretionary,risk_return,ward,2,0
+NRG,Utilities,risk_return,ward,2,1
+NUE,Materials,risk_return,ward,2,0
+NVDA,Information Technology,risk_return,ward,2,0
+NVR,Consumer Discretionary,risk_return,ward,2,1
+NXPI,Information Technology,risk_return,ward,2,0
+ORLY,Consumer Discretionary,risk_return,ward,2,1
+OXY,Energy,risk_return,ward,2,1
+OKTA,Information Technology,risk_return,ward,2,0
+ODFL,Industrials,risk_return,ward,2,0
+OMC,Communication Services,risk_return,ward,2,1
+ON,Information Technology,risk_return,ward,2,0
+OKE,Energy,risk_return,ward,2,1
+ORCL,Information Technology,risk_return,ward,2,0
+OTIS,Industrials,risk_return,ward,2,1
+PCAR,Industrials,risk_return,ward,2,1
+PKG,Materials,risk_return,ward,2,1
+PLTR,Information Technology,risk_return,ward,2,0
+PANW,Information Technology,risk_return,ward,2,0
+PH,Industrials,risk_return,ward,2,0
+PAYX,Industrials,risk_return,ward,2,1
+PYPL,Financials,risk_return,ward,2,1
+PNR,Industrials,risk_return,ward,2,0
+PEP,Consumer Staples,risk_return,ward,2,1
+PFE,Health Care,risk_return,ward,2,1
+PCG,Utilities,risk_return,ward,2,1
+PM,Consumer Staples,risk_return,ward,2,1
+PSX,Energy,risk_return,ward,2,1
+PNW,Utilities,risk_return,ward,2,1
+PNC,Financials,risk_return,ward,2,1
+PPG,Materials,risk_return,ward,2,1
+PPL,Utilities,risk_return,ward,2,1
+PFG,Financials,risk_return,ward,2,1
+PG,Consumer Staples,risk_return,ward,2,1
+PGR,Financials,risk_return,ward,2,1
+PLD,Real Estate,risk_return,ward,2,1
+PRU,Financials,risk_return,ward,2,1
+PTC,Information Technology,risk_return,ward,2,1
+PEG,Utilities,risk_return,ward,2,1
+PSA,Real Estate,risk_return,ward,2,1
+PHM,Consumer Discretionary,risk_return,ward,2,0
+QCOM,Information Technology,risk_return,ward,2,0
+PWR,Industrials,risk_return,ward,2,0
+DGX,Health Care,risk_return,ward,2,1
+RL,Consumer Discretionary,risk_return,ward,2,0
+RJF,Financials,risk_return,ward,2,0
+RDDT,Communication Services,risk_return,ward,2,0
+O,Real Estate,risk_return,ward,2,1
+REG,Real Estate,risk_return,ward,2,1
+REGN,Health Care,risk_return,ward,2,1
+RF,Financials,risk_return,ward,2,1
+RSG,Industrials,risk_return,ward,2,1
+RMD,Health Care,risk_return,ward,2,1
+RVTY,Health Care,risk_return,ward,2,1
+HOOD,Financials,risk_return,ward,2,0
+ROK,Industrials,risk_return,ward,2,1
+ROL,Industrials,risk_return,ward,2,1
+ROP,Information Technology,risk_return,ward,2,1
+ROST,Consumer Discretionary,risk_return,ward,2,1
+RCL,Consumer Discretionary,risk_return,ward,2,0
+RTX,Industrials,risk_return,ward,2,1
+SPGI,Financials,risk_return,ward,2,1
+CRM,Information Technology,risk_return,ward,2,0
+SBAC,Real Estate,risk_return,ward,2,1
+SLB,Energy,risk_return,ward,2,1
+STX,Information Technology,risk_return,ward,2,0
+SRE,Utilities,risk_return,ward,2,1
+NOW,Information Technology,risk_return,ward,2,0
+SHW,Materials,risk_return,ward,2,1
+SPG,Real Estate,risk_return,ward,2,0
+SKYD,Communication Services,risk_return,ward,2,1
+SWKS,Information Technology,risk_return,ward,2,1
+SJM,Consumer Staples,risk_return,ward,2,1
+SW,Materials,risk_return,ward,2,0
+SNA,Industrials,risk_return,ward,2,1
+SOLV,Health Care,risk_return,ward,2,1
+SO,Utilities,risk_return,ward,2,1
+LUV,Industrials,risk_return,ward,2,1
+SWK,Industrials,risk_return,ward,2,1
+SBUX,Consumer Discretionary,risk_return,ward,2,1
+STT,Financials,risk_return,ward,2,1
+STLD,Materials,risk_return,ward,2,0
+STE,Health Care,risk_return,ward,2,1
+SYK,Health Care,risk_return,ward,2,1
+SMCI,Information Technology,risk_return,ward,2,0
+SYF,Financials,risk_return,ward,2,0
+SNPS,Information Technology,risk_return,ward,2,0
+SYY,Consumer Staples,risk_return,ward,2,1
+TMUS,Communication Services,risk_return,ward,2,1
+TROW,Financials,risk_return,ward,2,0
+TTWO,Communication Services,risk_return,ward,2,1
+TPR,Consumer Discretionary,risk_return,ward,2,0
+TRGP,Energy,risk_return,ward,2,0
+TGT,Consumer Staples,risk_return,ward,2,1
+TEL,Information Technology,risk_return,ward,2,1
+TDY,Information Technology,risk_return,ward,2,1
+TER,Information Technology,risk_return,ward,2,0
+TSLA,Consumer Discretionary,risk_return,ward,2,0
+TXN,Information Technology,risk_return,ward,2,1
+TPL,Energy,risk_return,ward,2,0
+TXT,Industrials,risk_return,ward,2,1
+TMO,Health Care,risk_return,ward,2,1
+TJX,Consumer Discretionary,risk_return,ward,2,1
+TKO,Communication Services,risk_return,ward,2,1
+TSCO,Consumer Discretionary,risk_return,ward,2,1
+TT,Industrials,risk_return,ward,2,0
+TDG,Industrials,risk_return,ward,2,0
+TRV,Financials,risk_return,ward,2,1
+TRMB,Information Technology,risk_return,ward,2,0
+TFC,Financials,risk_return,ward,2,1
+TWLO,Information Technology,risk_return,ward,2,0
+TYL,Information Technology,risk_return,ward,2,1
+TSN,Consumer Staples,risk_return,ward,2,1
+USB,Financials,risk_return,ward,2,1
+UBER,Industrials,risk_return,ward,2,0
+UDR,Real Estate,risk_return,ward,2,1
+ULTA,Consumer Discretionary,risk_return,ward,2,1
+UNP,Industrials,risk_return,ward,2,1
+UAL,Industrials,risk_return,ward,2,0
+UPS,Industrials,risk_return,ward,2,1
+URI,Industrials,risk_return,ward,2,0
+UNH,Health Care,risk_return,ward,2,1
+UHS,Health Care,risk_return,ward,2,1
+VLO,Energy,risk_return,ward,2,1
+VEEV,Health Care,risk_return,ward,2,0
+VTR,Real Estate,risk_return,ward,2,1
+VLTO,Industrials,risk_return,ward,2,1
+VRSN,Information Technology,risk_return,ward,2,1
+VRSK,Industrials,risk_return,ward,2,1
+VZ,Communication Services,risk_return,ward,2,1
+VRTX,Health Care,risk_return,ward,2,1
+VRT,Industrials,risk_return,ward,2,0
+VTRS,Health Care,risk_return,ward,2,1
+VICI,Real Estate,risk_return,ward,2,1
+V,Financials,risk_return,ward,2,1
+VST,Utilities,risk_return,ward,2,0
+VMRK,Real Estate,risk_return,ward,2,1
+VMC,Materials,risk_return,ward,2,1
+WRB,Financials,risk_return,ward,2,1
+GWW,Industrials,risk_return,ward,2,1
+WAB,Industrials,risk_return,ward,2,0
+WMT,Consumer Staples,risk_return,ward,2,1
+DIS,Communication Services,risk_return,ward,2,1
+WM,Industrials,risk_return,ward,2,1
+WAT,Health Care,risk_return,ward,2,1
+WEC,Utilities,risk_return,ward,2,1
+WFC,Financials,risk_return,ward,2,0
+WELL,Real Estate,risk_return,ward,2,1
+WST,Health Care,risk_return,ward,2,1
+WDC,Information Technology,risk_return,ward,2,0
+WY,Real Estate,risk_return,ward,2,1
+WSM,Consumer Discretionary,risk_return,ward,2,0
+WMB,Energy,risk_return,ward,2,1
+WTW,Financials,risk_return,ward,2,1
+WDAY,Information Technology,risk_return,ward,2,0
+WYNN,Consumer Discretionary,risk_return,ward,2,1
+XEL,Utilities,risk_return,ward,2,1
+XYL,Industrials,risk_return,ward,2,1
+YUM,Consumer Discretionary,risk_return,ward,2,1
+ZBRA,Information Technology,risk_return,ward,2,0
+ZBH,Health Care,risk_return,ward,2,1
+ZTS,Health Care,risk_return,ward,2,1
+MMM,Industrials,risk_return,kmeans,2,0
+AOS,Industrials,risk_return,kmeans,2,0
+ABT,Health Care,risk_return,kmeans,2,0
+ABBV,Health Care,risk_return,kmeans,2,0
+ACN,Information Technology,risk_return,kmeans,2,0
+ADBE,Information Technology,risk_return,kmeans,2,1
+AMD,Information Technology,risk_return,kmeans,2,1
+AES,Utilities,risk_return,kmeans,2,0
+AFL,Financials,risk_return,kmeans,2,0
+A,Health Care,risk_return,kmeans,2,0
+APD,Materials,risk_return,kmeans,2,0
+ABNB,Consumer Discretionary,risk_return,kmeans,2,1
+AKAM,Information Technology,risk_return,kmeans,2,0
+ALB,Materials,risk_return,kmeans,2,1
+ARE,Real Estate,risk_return,kmeans,2,0
+ALGN,Health Care,risk_return,kmeans,2,1
+ALLE,Industrials,risk_return,kmeans,2,0
+LNT,Utilities,risk_return,kmeans,2,0
+ALL,Financials,risk_return,kmeans,2,0
+GOOGL,Communication Services,risk_return,kmeans,2,1
+GOOG,Communication Services,risk_return,kmeans,2,1
+MO,Consumer Staples,risk_return,kmeans,2,0
+AMZN,Consumer Discretionary,risk_return,kmeans,2,1
+AMCR,Materials,risk_return,kmeans,2,0
+AEE,Utilities,risk_return,kmeans,2,0
+AEP,Utilities,risk_return,kmeans,2,0
+AXP,Financials,risk_return,kmeans,2,1
+AIG,Financials,risk_return,kmeans,2,0
+AMT,Real Estate,risk_return,kmeans,2,0
+AWK,Utilities,risk_return,kmeans,2,0
+AMP,Financials,risk_return,kmeans,2,1
+AME,Industrials,risk_return,kmeans,2,0
+AMGN,Health Care,risk_return,kmeans,2,0
+APH,Information Technology,risk_return,kmeans,2,1
+ADI,Information Technology,risk_return,kmeans,2,0
+AON,Financials,risk_return,kmeans,2,0
+APA,Energy,risk_return,kmeans,2,0
+APO,Financials,risk_return,kmeans,2,1
+AAPL,Information Technology,risk_return,kmeans,2,1
+AMAT,Information Technology,risk_return,kmeans,2,1
+APP,Communication Services,risk_return,kmeans,2,1
+APTV,Consumer Discretionary,risk_return,kmeans,2,0
+ACGL,Financials,risk_return,kmeans,2,0
+ADM,Consumer Staples,risk_return,kmeans,2,0
+ARES,Financials,risk_return,kmeans,2,1
+ANET,Information Technology,risk_return,kmeans,2,1
+AJG,Financials,risk_return,kmeans,2,0
+AIZ,Financials,risk_return,kmeans,2,0
+T,Communication Services,risk_return,kmeans,2,0
+ATO,Utilities,risk_return,kmeans,2,0
+ADSK,Information Technology,risk_return,kmeans,2,1
+ADP,Industrials,risk_return,kmeans,2,0
+AZO,Consumer Discretionary,risk_return,kmeans,2,0
+AVY,Materials,risk_return,kmeans,2,0
+AXON,Industrials,risk_return,kmeans,2,1
+BKR,Energy,risk_return,kmeans,2,0
+BALL,Materials,risk_return,kmeans,2,0
+BAC,Financials,risk_return,kmeans,2,0
+BAX,Health Care,risk_return,kmeans,2,0
+BDX,Health Care,risk_return,kmeans,2,0
+BRK-B,Financials,risk_return,kmeans,2,0
+BBY,Consumer Discretionary,risk_return,kmeans,2,0
+TECH,Health Care,risk_return,kmeans,2,0
+BIIB,Health Care,risk_return,kmeans,2,0
+BLK,Financials,risk_return,kmeans,2,1
+BX,Financials,risk_return,kmeans,2,1
+XYZ,Financials,risk_return,kmeans,2,1
+BE,Industrials,risk_return,kmeans,2,1
+BNY,Financials,risk_return,kmeans,2,0
+BA,Industrials,risk_return,kmeans,2,0
+BKNG,Consumer Discretionary,risk_return,kmeans,2,1
+BSX,Health Care,risk_return,kmeans,2,0
+BMY,Health Care,risk_return,kmeans,2,0
+AVGO,Information Technology,risk_return,kmeans,2,1
+BR,Industrials,risk_return,kmeans,2,0
+BRO,Financials,risk_return,kmeans,2,0
+BF-B,Consumer Staples,risk_return,kmeans,2,0
+BG,Consumer Staples,risk_return,kmeans,2,0
+BXP,Real Estate,risk_return,kmeans,2,0
+CHRW,Industrials,risk_return,kmeans,2,0
+CDNS,Information Technology,risk_return,kmeans,2,1
+CPT,Real Estate,risk_return,kmeans,2,0
+COF,Financials,risk_return,kmeans,2,1
+CAH,Health Care,risk_return,kmeans,2,0
+CCL,Consumer Discretionary,risk_return,kmeans,2,1
+CARR,Industrials,risk_return,kmeans,2,1
+CVNA,Consumer Discretionary,risk_return,kmeans,2,1
+CASY,Consumer Staples,risk_return,kmeans,2,0
+CAT,Industrials,risk_return,kmeans,2,0
+CBOE,Financials,risk_return,kmeans,2,0
+CBRE,Real Estate,risk_return,kmeans,2,1
+CDW,Information Technology,risk_return,kmeans,2,0
+COR,Health Care,risk_return,kmeans,2,0
+CNC,Health Care,risk_return,kmeans,2,0
+CNP,Utilities,risk_return,kmeans,2,0
+CF,Materials,risk_return,kmeans,2,0
+CRL,Health Care,risk_return,kmeans,2,0
+SCHW,Financials,risk_return,kmeans,2,0
+CHTR,Communication Services,risk_return,kmeans,2,0
+CVX,Energy,risk_return,kmeans,2,0
+CMG,Consumer Discretionary,risk_return,kmeans,2,1
+CB,Financials,risk_return,kmeans,2,0
+CHD,Consumer Staples,risk_return,kmeans,2,0
+CIEN,Information Technology,risk_return,kmeans,2,1
+CI,Health Care,risk_return,kmeans,2,0
+CINF,Financials,risk_return,kmeans,2,0
+CTAS,Industrials,risk_return,kmeans,2,1
+CSCO,Information Technology,risk_return,kmeans,2,0
+C,Financials,risk_return,kmeans,2,0
+CFG,Financials,risk_return,kmeans,2,0
+CLX,Consumer Staples,risk_return,kmeans,2,0
+CME,Financials,risk_return,kmeans,2,0
+CMS,Utilities,risk_return,kmeans,2,0
+KO,Consumer Staples,risk_return,kmeans,2,0
+CTSH,Information Technology,risk_return,kmeans,2,0
+COHR,Information Technology,risk_return,kmeans,2,1
+COIN,Financials,risk_return,kmeans,2,1
+CL,Consumer Staples,risk_return,kmeans,2,0
+CMCSA,Communication Services,risk_return,kmeans,2,0
+FIX,Industrials,risk_return,kmeans,2,1
+COP,Energy,risk_return,kmeans,2,0
+ED,Utilities,risk_return,kmeans,2,0
+STZ,Consumer Staples,risk_return,kmeans,2,0
+CEG,Utilities,risk_return,kmeans,2,1
+COO,Health Care,risk_return,kmeans,2,0
+CPRT,Industrials,risk_return,kmeans,2,1
+GLW,Information Technology,risk_return,kmeans,2,0
+CPAY,Financials,risk_return,kmeans,2,0
+CSGP,Real Estate,risk_return,kmeans,2,0
+COST,Consumer Staples,risk_return,kmeans,2,1
+CRH,Materials,risk_return,kmeans,2,1
+CRWD,Information Technology,risk_return,kmeans,2,1
+CCI,Real Estate,risk_return,kmeans,2,0
+CSX,Industrials,risk_return,kmeans,2,0
+CMI,Industrials,risk_return,kmeans,2,0
+CVS,Health Care,risk_return,kmeans,2,0
+DHR,Health Care,risk_return,kmeans,2,0
+DRI,Consumer Discretionary,risk_return,kmeans,2,0
+DDOG,Information Technology,risk_return,kmeans,2,1
+DVA,Health Care,risk_return,kmeans,2,0
+DECK,Consumer Discretionary,risk_return,kmeans,2,1
+DE,Industrials,risk_return,kmeans,2,0
+DELL,Information Technology,risk_return,kmeans,2,1
+DAL,Industrials,risk_return,kmeans,2,1
+DVN,Energy,risk_return,kmeans,2,0
+DXCM,Health Care,risk_return,kmeans,2,0
+FANG,Energy,risk_return,kmeans,2,1
+DLR,Real Estate,risk_return,kmeans,2,0
+DG,Consumer Staples,risk_return,kmeans,2,0
+DLTR,Consumer Staples,risk_return,kmeans,2,0
+D,Utilities,risk_return,kmeans,2,0
+DPZ,Consumer Discretionary,risk_return,kmeans,2,0
+DASH,Consumer Discretionary,risk_return,kmeans,2,1
+DOV,Industrials,risk_return,kmeans,2,0
+DOW,Materials,risk_return,kmeans,2,0
+DHI,Consumer Discretionary,risk_return,kmeans,2,1
+DTE,Utilities,risk_return,kmeans,2,0
+DUK,Utilities,risk_return,kmeans,2,0
+DD,Industrials,risk_return,kmeans,2,0
+ETN,Industrials,risk_return,kmeans,2,1
+EBAY,Consumer Discretionary,risk_return,kmeans,2,0
+ECHO,Communication Services,risk_return,kmeans,2,0
+ECL,Materials,risk_return,kmeans,2,0
+EIX,Utilities,risk_return,kmeans,2,0
+EW,Health Care,risk_return,kmeans,2,0
+ELV,Health Care,risk_return,kmeans,2,0
+EME,Industrials,risk_return,kmeans,2,1
+EMR,Industrials,risk_return,kmeans,2,0
+ETR,Utilities,risk_return,kmeans,2,0
+EOG,Energy,risk_return,kmeans,2,0
+EQT,Energy,risk_return,kmeans,2,1
+EFX,Industrials,risk_return,kmeans,2,1
+EQIX,Real Estate,risk_return,kmeans,2,0
+ERIE,Financials,risk_return,kmeans,2,0
+ESS,Real Estate,risk_return,kmeans,2,0
+EL,Consumer Staples,risk_return,kmeans,2,0
+EG,Financials,risk_return,kmeans,2,0
+EVRG,Utilities,risk_return,kmeans,2,0
+P,Information Technology,risk_return,kmeans,2,1
+ES,Utilities,risk_return,kmeans,2,0
+EXC,Utilities,risk_return,kmeans,2,0
+EXE,Energy,risk_return,kmeans,2,0
+EXPE,Consumer Discretionary,risk_return,kmeans,2,1
+EXPD,Industrials,risk_return,kmeans,2,0
+EXR,Real Estate,risk_return,kmeans,2,0
+XOM,Energy,risk_return,kmeans,2,0
+FFIV,Information Technology,risk_return,kmeans,2,0
+FDS,Financials,risk_return,kmeans,2,0
+FICO,Information Technology,risk_return,kmeans,2,1
+FAST,Industrials,risk_return,kmeans,2,0
+FRT,Real Estate,risk_return,kmeans,2,0
+FDX,Industrials,risk_return,kmeans,2,0
+FERG,Industrials,risk_return,kmeans,2,0
+FIS,Financials,risk_return,kmeans,2,0
+FITB,Financials,risk_return,kmeans,2,0
+FSLR,Information Technology,risk_return,kmeans,2,1
+FE,Utilities,risk_return,kmeans,2,0
+FISV,Financials,risk_return,kmeans,2,0
+FLEX,Information Technology,risk_return,kmeans,2,1
+F,Consumer Discretionary,risk_return,kmeans,2,1
+FTNT,Information Technology,risk_return,kmeans,2,1
+FTV,Industrials,risk_return,kmeans,2,0
+FOXA,Communication Services,risk_return,kmeans,2,0
+FOX,Communication Services,risk_return,kmeans,2,0
+BEN,Financials,risk_return,kmeans,2,0
+FCX,Materials,risk_return,kmeans,2,1
+GRMN,Consumer Discretionary,risk_return,kmeans,2,0
+IT,Information Technology,risk_return,kmeans,2,1
+GE,Industrials,risk_return,kmeans,2,1
+GEHC,Health Care,risk_return,kmeans,2,0
+GEV,Industrials,risk_return,kmeans,2,1
+GEN,Information Technology,risk_return,kmeans,2,0
+GNRC,Industrials,risk_return,kmeans,2,1
+GD,Industrials,risk_return,kmeans,2,0
+GIS,Consumer Staples,risk_return,kmeans,2,0
+GM,Consumer Discretionary,risk_return,kmeans,2,1
+GPC,Consumer Discretionary,risk_return,kmeans,2,0
+GILD,Health Care,risk_return,kmeans,2,0
+GPN,Financials,risk_return,kmeans,2,0
+GL,Financials,risk_return,kmeans,2,0
+GDDY,Information Technology,risk_return,kmeans,2,1
+GS,Financials,risk_return,kmeans,2,1
+HAL,Energy,risk_return,kmeans,2,0
+HIG,Financials,risk_return,kmeans,2,0
+HAS,Consumer Discretionary,risk_return,kmeans,2,0
+HCA,Health Care,risk_return,kmeans,2,0
+DOC,Real Estate,risk_return,kmeans,2,0
+HSIC,Health Care,risk_return,kmeans,2,0
+HSY,Consumer Staples,risk_return,kmeans,2,0
+HPE,Information Technology,risk_return,kmeans,2,1
+HLT,Consumer Discretionary,risk_return,kmeans,2,0
+HD,Consumer Discretionary,risk_return,kmeans,2,0
+HON,Industrials,risk_return,kmeans,2,0
+HRL,Consumer Staples,risk_return,kmeans,2,0
+HST,Real Estate,risk_return,kmeans,2,0
+HWM,Industrials,risk_return,kmeans,2,1
+HPQ,Information Technology,risk_return,kmeans,2,0
+HUBB,Industrials,risk_return,kmeans,2,1
+HUM,Health Care,risk_return,kmeans,2,0
+HBAN,Financials,risk_return,kmeans,2,0
+HII,Industrials,risk_return,kmeans,2,0
+IBM,Information Technology,risk_return,kmeans,2,0
+IEX,Industrials,risk_return,kmeans,2,0
+IDXX,Health Care,risk_return,kmeans,2,0
+ITW,Industrials,risk_return,kmeans,2,0
+ILMN,Health Care,risk_return,kmeans,2,0
+INCY,Health Care,risk_return,kmeans,2,0
+IR,Industrials,risk_return,kmeans,2,1
+PODD,Health Care,risk_return,kmeans,2,0
+INTC,Information Technology,risk_return,kmeans,2,0
+IBKR,Financials,risk_return,kmeans,2,0
+ICE,Financials,risk_return,kmeans,2,0
+IFF,Materials,risk_return,kmeans,2,0
+IP,Materials,risk_return,kmeans,2,0
+INTU,Information Technology,risk_return,kmeans,2,1
+ISRG,Health Care,risk_return,kmeans,2,1
+IVZ,Financials,risk_return,kmeans,2,1
+INVH,Real Estate,risk_return,kmeans,2,0
+IQV,Health Care,risk_return,kmeans,2,0
+IRM,Real Estate,risk_return,kmeans,2,1
+JBHT,Industrials,risk_return,kmeans,2,0
+JBL,Information Technology,risk_return,kmeans,2,1
+JKHY,Financials,risk_return,kmeans,2,0
+J,Industrials,risk_return,kmeans,2,0
+JNJ,Health Care,risk_return,kmeans,2,0
+JCI,Industrials,risk_return,kmeans,2,0
+JPM,Financials,risk_return,kmeans,2,0
+KDP,Consumer Staples,risk_return,kmeans,2,0
+KEY,Financials,risk_return,kmeans,2,0
+KEYS,Information Technology,risk_return,kmeans,2,0
+KMB,Consumer Staples,risk_return,kmeans,2,0
+KIM,Real Estate,risk_return,kmeans,2,0
+KMI,Energy,risk_return,kmeans,2,0
+KKR,Financials,risk_return,kmeans,2,1
+KLAC,Information Technology,risk_return,kmeans,2,1
+KHC,Consumer Staples,risk_return,kmeans,2,0
+KR,Consumer Staples,risk_return,kmeans,2,0
+LHX,Industrials,risk_return,kmeans,2,0
+LH,Health Care,risk_return,kmeans,2,0
+LRCX,Information Technology,risk_return,kmeans,2,1
+LVS,Consumer Discretionary,risk_return,kmeans,2,0
+LDOS,Industrials,risk_return,kmeans,2,0
+LEN,Consumer Discretionary,risk_return,kmeans,2,1
+LII,Industrials,risk_return,kmeans,2,1
+LLY,Health Care,risk_return,kmeans,2,0
+LIN,Materials,risk_return,kmeans,2,0
+LYV,Communication Services,risk_return,kmeans,2,1
+LMT,Industrials,risk_return,kmeans,2,0
+L,Financials,risk_return,kmeans,2,0
+LOW,Consumer Discretionary,risk_return,kmeans,2,0
+LULU,Consumer Discretionary,risk_return,kmeans,2,0
+LITE,Information Technology,risk_return,kmeans,2,1
+LYB,Materials,risk_return,kmeans,2,0
+MTB,Financials,risk_return,kmeans,2,0
+MPC,Energy,risk_return,kmeans,2,0
+MAR,Consumer Discretionary,risk_return,kmeans,2,0
+MRSH,Financials,risk_return,kmeans,2,0
+MLM,Materials,risk_return,kmeans,2,0
+MRVL,Information Technology,risk_return,kmeans,2,1
+MAS,Industrials,risk_return,kmeans,2,0
+MA,Financials,risk_return,kmeans,2,0
+MKC,Consumer Staples,risk_return,kmeans,2,0
+MCD,Consumer Discretionary,risk_return,kmeans,2,0
+MCK,Health Care,risk_return,kmeans,2,0
+MDT,Health Care,risk_return,kmeans,2,0
+MRK,Health Care,risk_return,kmeans,2,0
+META,Communication Services,risk_return,kmeans,2,1
+MET,Financials,risk_return,kmeans,2,0
+MTD,Health Care,risk_return,kmeans,2,0
+MGM,Consumer Discretionary,risk_return,kmeans,2,1
+MCHP,Information Technology,risk_return,kmeans,2,1
+MU,Information Technology,risk_return,kmeans,2,1
+MSFT,Information Technology,risk_return,kmeans,2,1
+MAA,Real Estate,risk_return,kmeans,2,0
+MRNA,Health Care,risk_return,kmeans,2,0
+MDLZ,Consumer Staples,risk_return,kmeans,2,0
+MPWR,Information Technology,risk_return,kmeans,2,1
+MNST,Consumer Staples,risk_return,kmeans,2,0
+MCO,Financials,risk_return,kmeans,2,1
+MS,Financials,risk_return,kmeans,2,1
+MOS,Materials,risk_return,kmeans,2,0
+MSI,Information Technology,risk_return,kmeans,2,0
+MSCI,Financials,risk_return,kmeans,2,1
+NDAQ,Financials,risk_return,kmeans,2,0
+NTAP,Information Technology,risk_return,kmeans,2,1
+NFLX,Communication Services,risk_return,kmeans,2,1
+NEM,Materials,risk_return,kmeans,2,0
+NWSA,Communication Services,risk_return,kmeans,2,0
+NWS,Communication Services,risk_return,kmeans,2,0
+NEE,Utilities,risk_return,kmeans,2,0
+NKE,Consumer Discretionary,risk_return,kmeans,2,0
+NI,Utilities,risk_return,kmeans,2,0
+NDSN,Industrials,risk_return,kmeans,2,0
+NSC,Industrials,risk_return,kmeans,2,0
+NTRS,Financials,risk_return,kmeans,2,0
+NOC,Industrials,risk_return,kmeans,2,0
+NCLH,Consumer Discretionary,risk_return,kmeans,2,1
+NRG,Utilities,risk_return,kmeans,2,1
+NUE,Materials,risk_return,kmeans,2,1
+NVDA,Information Technology,risk_return,kmeans,2,1
+NVR,Consumer Discretionary,risk_return,kmeans,2,0
+NXPI,Information Technology,risk_return,kmeans,2,1
+ORLY,Consumer Discretionary,risk_return,kmeans,2,0
+OXY,Energy,risk_return,kmeans,2,0
+OKTA,Information Technology,risk_return,kmeans,2,1
+ODFL,Industrials,risk_return,kmeans,2,1
+OMC,Communication Services,risk_return,kmeans,2,0
+ON,Information Technology,risk_return,kmeans,2,1
+OKE,Energy,risk_return,kmeans,2,1
+ORCL,Information Technology,risk_return,kmeans,2,1
+OTIS,Industrials,risk_return,kmeans,2,0
+PCAR,Industrials,risk_return,kmeans,2,0
+PKG,Materials,risk_return,kmeans,2,0
+PLTR,Information Technology,risk_return,kmeans,2,1
+PANW,Information Technology,risk_return,kmeans,2,1
+PH,Industrials,risk_return,kmeans,2,1
+PAYX,Industrials,risk_return,kmeans,2,0
+PYPL,Financials,risk_return,kmeans,2,0
+PNR,Industrials,risk_return,kmeans,2,1
+PEP,Consumer Staples,risk_return,kmeans,2,0
+PFE,Health Care,risk_return,kmeans,2,0
+PCG,Utilities,risk_return,kmeans,2,0
+PM,Consumer Staples,risk_return,kmeans,2,0
+PSX,Energy,risk_return,kmeans,2,0
+PNW,Utilities,risk_return,kmeans,2,0
+PNC,Financials,risk_return,kmeans,2,0
+PPG,Materials,risk_return,kmeans,2,0
+PPL,Utilities,risk_return,kmeans,2,0
+PFG,Financials,risk_return,kmeans,2,0
+PG,Consumer Staples,risk_return,kmeans,2,0
+PGR,Financials,risk_return,kmeans,2,0
+PLD,Real Estate,risk_return,kmeans,2,0
+PRU,Financials,risk_return,kmeans,2,0
+PTC,Information Technology,risk_return,kmeans,2,0
+PEG,Utilities,risk_return,kmeans,2,0
+PSA,Real Estate,risk_return,kmeans,2,0
+PHM,Consumer Discretionary,risk_return,kmeans,2,1
+QCOM,Information Technology,risk_return,kmeans,2,1
+PWR,Industrials,risk_return,kmeans,2,1
+DGX,Health Care,risk_return,kmeans,2,0
+RL,Consumer Discretionary,risk_return,kmeans,2,1
+RJF,Financials,risk_return,kmeans,2,1
+RDDT,Communication Services,risk_return,kmeans,2,1
+O,Real Estate,risk_return,kmeans,2,0
+REG,Real Estate,risk_return,kmeans,2,0
+REGN,Health Care,risk_return,kmeans,2,0
+RF,Financials,risk_return,kmeans,2,0
+RSG,Industrials,risk_return,kmeans,2,0
+RMD,Health Care,risk_return,kmeans,2,0
+RVTY,Health Care,risk_return,kmeans,2,0
+HOOD,Financials,risk_return,kmeans,2,1
+ROK,Industrials,risk_return,kmeans,2,0
+ROL,Industrials,risk_return,kmeans,2,0
+ROP,Information Technology,risk_return,kmeans,2,0
+ROST,Consumer Discretionary,risk_return,kmeans,2,0
+RCL,Consumer Discretionary,risk_return,kmeans,2,1
+RTX,Industrials,risk_return,kmeans,2,0
+SPGI,Financials,risk_return,kmeans,2,0
+CRM,Information Technology,risk_return,kmeans,2,1
+SBAC,Real Estate,risk_return,kmeans,2,0
+SLB,Energy,risk_return,kmeans,2,0
+STX,Information Technology,risk_return,kmeans,2,1
+SRE,Utilities,risk_return,kmeans,2,0
+NOW,Information Technology,risk_return,kmeans,2,1
+SHW,Materials,risk_return,kmeans,2,0
+SPG,Real Estate,risk_return,kmeans,2,1
+SKYD,Communication Services,risk_return,kmeans,2,0
+SWKS,Information Technology,risk_return,kmeans,2,0
+SJM,Consumer Staples,risk_return,kmeans,2,0
+SW,Materials,risk_return,kmeans,2,1
+SNA,Industrials,risk_return,kmeans,2,0
+SOLV,Health Care,risk_return,kmeans,2,0
+SO,Utilities,risk_return,kmeans,2,0
+LUV,Industrials,risk_return,kmeans,2,0
+SWK,Industrials,risk_return,kmeans,2,0
+SBUX,Consumer Discretionary,risk_return,kmeans,2,0
+STT,Financials,risk_return,kmeans,2,0
+STLD,Materials,risk_return,kmeans,2,1
+STE,Health Care,risk_return,kmeans,2,0
+SYK,Health Care,risk_return,kmeans,2,0
+SMCI,Information Technology,risk_return,kmeans,2,1
+SYF,Financials,risk_return,kmeans,2,1
+SNPS,Information Technology,risk_return,kmeans,2,1
+SYY,Consumer Staples,risk_return,kmeans,2,0
+TMUS,Communication Services,risk_return,kmeans,2,0
+TROW,Financials,risk_return,kmeans,2,1
+TTWO,Communication Services,risk_return,kmeans,2,0
+TPR,Consumer Discretionary,risk_return,kmeans,2,1
+TRGP,Energy,risk_return,kmeans,2,1
+TGT,Consumer Staples,risk_return,kmeans,2,0
+TEL,Information Technology,risk_return,kmeans,2,0
+TDY,Information Technology,risk_return,kmeans,2,0
+TER,Information Technology,risk_return,kmeans,2,1
+TSLA,Consumer Discretionary,risk_return,kmeans,2,1
+TXN,Information Technology,risk_return,kmeans,2,0
+TPL,Energy,risk_return,kmeans,2,1
+TXT,Industrials,risk_return,kmeans,2,0
+TMO,Health Care,risk_return,kmeans,2,0
+TJX,Consumer Discretionary,risk_return,kmeans,2,0
+TKO,Communication Services,risk_return,kmeans,2,0
+TSCO,Consumer Discretionary,risk_return,kmeans,2,0
+TT,Industrials,risk_return,kmeans,2,1
+TDG,Industrials,risk_return,kmeans,2,1
+TRV,Financials,risk_return,kmeans,2,0
+TRMB,Information Technology,risk_return,kmeans,2,1
+TFC,Financials,risk_return,kmeans,2,0
+TWLO,Information Technology,risk_return,kmeans,2,1
+TYL,Information Technology,risk_return,kmeans,2,0
+TSN,Consumer Staples,risk_return,kmeans,2,0
+USB,Financials,risk_return,kmeans,2,0
+UBER,Industrials,risk_return,kmeans,2,1
+UDR,Real Estate,risk_return,kmeans,2,0
+ULTA,Consumer Discretionary,risk_return,kmeans,2,0
+UNP,Industrials,risk_return,kmeans,2,0
+UAL,Industrials,risk_return,kmeans,2,1
+UPS,Industrials,risk_return,kmeans,2,0
+URI,Industrials,risk_return,kmeans,2,1
+UNH,Health Care,risk_return,kmeans,2,0
+UHS,Health Care,risk_return,kmeans,2,0
+VLO,Energy,risk_return,kmeans,2,0
+VEEV,Health Care,risk_return,kmeans,2,0
+VTR,Real Estate,risk_return,kmeans,2,0
+VLTO,Industrials,risk_return,kmeans,2,0
+VRSN,Information Technology,risk_return,kmeans,2,0
+VRSK,Industrials,risk_return,kmeans,2,0
+VZ,Communication Services,risk_return,kmeans,2,0
+VRTX,Health Care,risk_return,kmeans,2,0
+VRT,Industrials,risk_return,kmeans,2,1
+VTRS,Health Care,risk_return,kmeans,2,0
+VICI,Real Estate,risk_return,kmeans,2,0
+V,Financials,risk_return,kmeans,2,0
+VST,Utilities,risk_return,kmeans,2,1
+VMRK,Real Estate,risk_return,kmeans,2,0
+VMC,Materials,risk_return,kmeans,2,0
+WRB,Financials,risk_return,kmeans,2,0
+GWW,Industrials,risk_return,kmeans,2,0
+WAB,Industrials,risk_return,kmeans,2,1
+WMT,Consumer Staples,risk_return,kmeans,2,0
+DIS,Communication Services,risk_return,kmeans,2,0
+WM,Industrials,risk_return,kmeans,2,0
+WAT,Health Care,risk_return,kmeans,2,0
+WEC,Utilities,risk_return,kmeans,2,0
+WFC,Financials,risk_return,kmeans,2,1
+WELL,Real Estate,risk_return,kmeans,2,0
+WST,Health Care,risk_return,kmeans,2,0
+WDC,Information Technology,risk_return,kmeans,2,1
+WY,Real Estate,risk_return,kmeans,2,0
+WSM,Consumer Discretionary,risk_return,kmeans,2,1
+WMB,Energy,risk_return,kmeans,2,0
+WTW,Financials,risk_return,kmeans,2,0
+WDAY,Information Technology,risk_return,kmeans,2,1
+WYNN,Consumer Discretionary,risk_return,kmeans,2,0
+XEL,Utilities,risk_return,kmeans,2,0
+XYL,Industrials,risk_return,kmeans,2,0
+YUM,Consumer Discretionary,risk_return,kmeans,2,0
+ZBRA,Information Technology,risk_return,kmeans,2,1
+ZBH,Health Care,risk_return,kmeans,2,0
+ZTS,Health Care,risk_return,kmeans,2,0
+MMM,Industrials,trading_activity,ward,2,0
+AOS,Industrials,trading_activity,ward,2,0
+ABT,Health Care,trading_activity,ward,2,0
+ABBV,Health Care,trading_activity,ward,2,0
+ACN,Information Technology,trading_activity,ward,2,0
+ADBE,Information Technology,trading_activity,ward,2,0
+AMD,Information Technology,trading_activity,ward,2,0
+AES,Utilities,trading_activity,ward,2,1
+AFL,Financials,trading_activity,ward,2,0
+A,Health Care,trading_activity,ward,2,0
+APD,Materials,trading_activity,ward,2,1
+ABNB,Consumer Discretionary,trading_activity,ward,2,0
+AKAM,Information Technology,trading_activity,ward,2,1
+ALB,Materials,trading_activity,ward,2,0
+ARE,Real Estate,trading_activity,ward,2,0
+ALGN,Health Care,trading_activity,ward,2,0
+ALLE,Industrials,trading_activity,ward,2,0
+LNT,Utilities,trading_activity,ward,2,1
+ALL,Financials,trading_activity,ward,2,1
+GOOGL,Communication Services,trading_activity,ward,2,0
+GOOG,Communication Services,trading_activity,ward,2,0
+MO,Consumer Staples,trading_activity,ward,2,0
+AMZN,Consumer Discretionary,trading_activity,ward,2,0
+AMCR,Materials,trading_activity,ward,2,0
+AEE,Utilities,trading_activity,ward,2,0
+AEP,Utilities,trading_activity,ward,2,0
+AXP,Financials,trading_activity,ward,2,0
+AIG,Financials,trading_activity,ward,2,0
+AMT,Real Estate,trading_activity,ward,2,0
+AWK,Utilities,trading_activity,ward,2,0
+AMP,Financials,trading_activity,ward,2,0
+AME,Industrials,trading_activity,ward,2,0
+AMGN,Health Care,trading_activity,ward,2,0
+APH,Information Technology,trading_activity,ward,2,1
+ADI,Information Technology,trading_activity,ward,2,1
+AON,Financials,trading_activity,ward,2,0
+APA,Energy,trading_activity,ward,2,0
+APO,Financials,trading_activity,ward,2,0
+AAPL,Information Technology,trading_activity,ward,2,0
+AMAT,Information Technology,trading_activity,ward,2,0
+APP,Communication Services,trading_activity,ward,2,0
+APTV,Consumer Discretionary,trading_activity,ward,2,0
+ACGL,Financials,trading_activity,ward,2,0
+ADM,Consumer Staples,trading_activity,ward,2,0
+ARES,Financials,trading_activity,ward,2,0
+ANET,Information Technology,trading_activity,ward,2,1
+AJG,Financials,trading_activity,ward,2,0
+AIZ,Financials,trading_activity,ward,2,0
+T,Communication Services,trading_activity,ward,2,0
+ATO,Utilities,trading_activity,ward,2,0
+ADSK,Information Technology,trading_activity,ward,2,0
+ADP,Industrials,trading_activity,ward,2,0
+AZO,Consumer Discretionary,trading_activity,ward,2,1
+AVY,Materials,trading_activity,ward,2,0
+AXON,Industrials,trading_activity,ward,2,0
+BKR,Energy,trading_activity,ward,2,0
+BALL,Materials,trading_activity,ward,2,0
+BAC,Financials,trading_activity,ward,2,0
+BAX,Health Care,trading_activity,ward,2,0
+BDX,Health Care,trading_activity,ward,2,1
+BRK-B,Financials,trading_activity,ward,2,0
+BBY,Consumer Discretionary,trading_activity,ward,2,1
+TECH,Health Care,trading_activity,ward,2,0
+BIIB,Health Care,trading_activity,ward,2,0
+BLK,Financials,trading_activity,ward,2,0
+BX,Financials,trading_activity,ward,2,0
+XYZ,Financials,trading_activity,ward,2,1
+BE,Industrials,trading_activity,ward,2,0
+BNY,Financials,trading_activity,ward,2,0
+BA,Industrials,trading_activity,ward,2,0
+BKNG,Consumer Discretionary,trading_activity,ward,2,0
+BSX,Health Care,trading_activity,ward,2,0
+BMY,Health Care,trading_activity,ward,2,0
+AVGO,Information Technology,trading_activity,ward,2,0
+BR,Industrials,trading_activity,ward,2,0
+BRO,Financials,trading_activity,ward,2,0
+BF-B,Consumer Staples,trading_activity,ward,2,0
+BG,Consumer Staples,trading_activity,ward,2,0
+BXP,Real Estate,trading_activity,ward,2,0
+CHRW,Industrials,trading_activity,ward,2,0
+CDNS,Information Technology,trading_activity,ward,2,1
+CPT,Real Estate,trading_activity,ward,2,0
+COF,Financials,trading_activity,ward,2,1
+CAH,Health Care,trading_activity,ward,2,0
+CCL,Consumer Discretionary,trading_activity,ward,2,0
+CARR,Industrials,trading_activity,ward,2,0
+CVNA,Consumer Discretionary,trading_activity,ward,2,1
+CASY,Consumer Staples,trading_activity,ward,2,0
+CAT,Industrials,trading_activity,ward,2,0
+CBOE,Financials,trading_activity,ward,2,0
+CBRE,Real Estate,trading_activity,ward,2,0
+CDW,Information Technology,trading_activity,ward,2,1
+COR,Health Care,trading_activity,ward,2,1
+CNC,Health Care,trading_activity,ward,2,0
+CNP,Utilities,trading_activity,ward,2,0
+CF,Materials,trading_activity,ward,2,0
+CRL,Health Care,trading_activity,ward,2,0
+SCHW,Financials,trading_activity,ward,2,1
+CHTR,Communication Services,trading_activity,ward,2,0
+CVX,Energy,trading_activity,ward,2,0
+CMG,Consumer Discretionary,trading_activity,ward,2,1
+CB,Financials,trading_activity,ward,2,1
+CHD,Consumer Staples,trading_activity,ward,2,0
+CIEN,Information Technology,trading_activity,ward,2,0
+CI,Health Care,trading_activity,ward,2,0
+CINF,Financials,trading_activity,ward,2,0
+CTAS,Industrials,trading_activity,ward,2,0
+CSCO,Information Technology,trading_activity,ward,2,0
+C,Financials,trading_activity,ward,2,0
+CFG,Financials,trading_activity,ward,2,0
+CLX,Consumer Staples,trading_activity,ward,2,0
+CME,Financials,trading_activity,ward,2,1
+CMS,Utilities,trading_activity,ward,2,0
+KO,Consumer Staples,trading_activity,ward,2,0
+CTSH,Information Technology,trading_activity,ward,2,0
+COHR,Information Technology,trading_activity,ward,2,0
+COIN,Financials,trading_activity,ward,2,0
+CL,Consumer Staples,trading_activity,ward,2,0
+CMCSA,Communication Services,trading_activity,ward,2,0
+FIX,Industrials,trading_activity,ward,2,1
+COP,Energy,trading_activity,ward,2,0
+ED,Utilities,trading_activity,ward,2,0
+STZ,Consumer Staples,trading_activity,ward,2,0
+CEG,Utilities,trading_activity,ward,2,1
+COO,Health Care,trading_activity,ward,2,0
+CPRT,Industrials,trading_activity,ward,2,0
+GLW,Information Technology,trading_activity,ward,2,0
+CPAY,Financials,trading_activity,ward,2,0
+CSGP,Real Estate,trading_activity,ward,2,0
+COST,Consumer Staples,trading_activity,ward,2,0
+CRH,Materials,trading_activity,ward,2,1
+CRWD,Information Technology,trading_activity,ward,2,1
+CCI,Real Estate,trading_activity,ward,2,0
+CSX,Industrials,trading_activity,ward,2,1
+CMI,Industrials,trading_activity,ward,2,0
+CVS,Health Care,trading_activity,ward,2,0
+DHR,Health Care,trading_activity,ward,2,0
+DRI,Consumer Discretionary,trading_activity,ward,2,0
+DDOG,Information Technology,trading_activity,ward,2,1
+DVA,Health Care,trading_activity,ward,2,0
+DECK,Consumer Discretionary,trading_activity,ward,2,0
+DE,Industrials,trading_activity,ward,2,1
+DELL,Information Technology,trading_activity,ward,2,1
+DAL,Industrials,trading_activity,ward,2,0
+DVN,Energy,trading_activity,ward,2,0
+DXCM,Health Care,trading_activity,ward,2,0
+FANG,Energy,trading_activity,ward,2,0
+DLR,Real Estate,trading_activity,ward,2,0
+DG,Consumer Staples,trading_activity,ward,2,1
+DLTR,Consumer Staples,trading_activity,ward,2,1
+D,Utilities,trading_activity,ward,2,1
+DPZ,Consumer Discretionary,trading_activity,ward,2,1
+DASH,Consumer Discretionary,trading_activity,ward,2,0
+DOV,Industrials,trading_activity,ward,2,0
+DOW,Materials,trading_activity,ward,2,0
+DHI,Consumer Discretionary,trading_activity,ward,2,0
+DTE,Utilities,trading_activity,ward,2,0
+DUK,Utilities,trading_activity,ward,2,1
+DD,Industrials,trading_activity,ward,2,0
+ETN,Industrials,trading_activity,ward,2,0
+EBAY,Consumer Discretionary,trading_activity,ward,2,0
+ECHO,Communication Services,trading_activity,ward,2,0
+ECL,Materials,trading_activity,ward,2,0
+EIX,Utilities,trading_activity,ward,2,0
+EW,Health Care,trading_activity,ward,2,0
+ELV,Health Care,trading_activity,ward,2,1
+EME,Industrials,trading_activity,ward,2,0
+EMR,Industrials,trading_activity,ward,2,0
+ETR,Utilities,trading_activity,ward,2,1
+EOG,Energy,trading_activity,ward,2,0
+EQT,Energy,trading_activity,ward,2,1
+EFX,Industrials,trading_activity,ward,2,0
+EQIX,Real Estate,trading_activity,ward,2,0
+ERIE,Financials,trading_activity,ward,2,0
+ESS,Real Estate,trading_activity,ward,2,0
+EL,Consumer Staples,trading_activity,ward,2,1
+EG,Financials,trading_activity,ward,2,0
+EVRG,Utilities,trading_activity,ward,2,0
+P,Information Technology,trading_activity,ward,2,0
+ES,Utilities,trading_activity,ward,2,0
+EXC,Utilities,trading_activity,ward,2,0
+EXE,Energy,trading_activity,ward,2,0
+EXPE,Consumer Discretionary,trading_activity,ward,2,0
+EXPD,Industrials,trading_activity,ward,2,0
+EXR,Real Estate,trading_activity,ward,2,0
+XOM,Energy,trading_activity,ward,2,0
+FFIV,Information Technology,trading_activity,ward,2,0
+FDS,Financials,trading_activity,ward,2,0
+FICO,Information Technology,trading_activity,ward,2,1
+FAST,Industrials,trading_activity,ward,2,0
+FRT,Real Estate,trading_activity,ward,2,0
+FDX,Industrials,trading_activity,ward,2,0
+FERG,Industrials,trading_activity,ward,2,1
+FIS,Financials,trading_activity,ward,2,0
+FITB,Financials,trading_activity,ward,2,0
+FSLR,Information Technology,trading_activity,ward,2,1
+FE,Utilities,trading_activity,ward,2,0
+FISV,Financials,trading_activity,ward,2,0
+FLEX,Information Technology,trading_activity,ward,2,0
+F,Consumer Discretionary,trading_activity,ward,2,1
+FTNT,Information Technology,trading_activity,ward,2,0
+FTV,Industrials,trading_activity,ward,2,0
+FOXA,Communication Services,trading_activity,ward,2,0
+FOX,Communication Services,trading_activity,ward,2,0
+BEN,Financials,trading_activity,ward,2,0
+FCX,Materials,trading_activity,ward,2,1
+GRMN,Consumer Discretionary,trading_activity,ward,2,0
+IT,Information Technology,trading_activity,ward,2,0
+GE,Industrials,trading_activity,ward,2,1
+GEHC,Health Care,trading_activity,ward,2,0
+GEV,Industrials,trading_activity,ward,2,0
+GEN,Information Technology,trading_activity,ward,2,0
+GNRC,Industrials,trading_activity,ward,2,0
+GD,Industrials,trading_activity,ward,2,0
+GIS,Consumer Staples,trading_activity,ward,2,0
+GM,Consumer Discretionary,trading_activity,ward,2,1
+GPC,Consumer Discretionary,trading_activity,ward,2,0
+GILD,Health Care,trading_activity,ward,2,0
+GPN,Financials,trading_activity,ward,2,1
+GL,Financials,trading_activity,ward,2,0
+GDDY,Information Technology,trading_activity,ward,2,1
+GS,Financials,trading_activity,ward,2,0
+HAL,Energy,trading_activity,ward,2,1
+HIG,Financials,trading_activity,ward,2,0
+HAS,Consumer Discretionary,trading_activity,ward,2,0
+HCA,Health Care,trading_activity,ward,2,1
+DOC,Real Estate,trading_activity,ward,2,0
+HSIC,Health Care,trading_activity,ward,2,1
+HSY,Consumer Staples,trading_activity,ward,2,0
+HPE,Information Technology,trading_activity,ward,2,0
+HLT,Consumer Discretionary,trading_activity,ward,2,0
+HD,Consumer Discretionary,trading_activity,ward,2,0
+HON,Industrials,trading_activity,ward,2,0
+HRL,Consumer Staples,trading_activity,ward,2,1
+HST,Real Estate,trading_activity,ward,2,0
+HWM,Industrials,trading_activity,ward,2,0
+HPQ,Information Technology,trading_activity,ward,2,1
+HUBB,Industrials,trading_activity,ward,2,0
+HUM,Health Care,trading_activity,ward,2,0
+HBAN,Financials,trading_activity,ward,2,0
+HII,Industrials,trading_activity,ward,2,0
+IBM,Information Technology,trading_activity,ward,2,0
+IEX,Industrials,trading_activity,ward,2,0
+IDXX,Health Care,trading_activity,ward,2,1
+ITW,Industrials,trading_activity,ward,2,0
+ILMN,Health Care,trading_activity,ward,2,0
+INCY,Health Care,trading_activity,ward,2,0
+IR,Industrials,trading_activity,ward,2,0
+PODD,Health Care,trading_activity,ward,2,0
+INTC,Information Technology,trading_activity,ward,2,0
+IBKR,Financials,trading_activity,ward,2,0
+ICE,Financials,trading_activity,ward,2,0
+IFF,Materials,trading_activity,ward,2,0
+IP,Materials,trading_activity,ward,2,1
+INTU,Information Technology,trading_activity,ward,2,1
+ISRG,Health Care,trading_activity,ward,2,0
+IVZ,Financials,trading_activity,ward,2,0
+INVH,Real Estate,trading_activity,ward,2,0
+IQV,Health Care,trading_activity,ward,2,0
+IRM,Real Estate,trading_activity,ward,2,0
+JBHT,Industrials,trading_activity,ward,2,0
+JBL,Information Technology,trading_activity,ward,2,0
+JKHY,Financials,trading_activity,ward,2,1
+J,Industrials,trading_activity,ward,2,0
+JNJ,Health Care,trading_activity,ward,2,0
+JCI,Industrials,trading_activity,ward,2,1
+JPM,Financials,trading_activity,ward,2,0
+KDP,Consumer Staples,trading_activity,ward,2,0
+KEY,Financials,trading_activity,ward,2,0
+KEYS,Information Technology,trading_activity,ward,2,0
+KMB,Consumer Staples,trading_activity,ward,2,0
+KIM,Real Estate,trading_activity,ward,2,0
+KMI,Energy,trading_activity,ward,2,0
+KKR,Financials,trading_activity,ward,2,0
+KLAC,Information Technology,trading_activity,ward,2,0
+KHC,Consumer Staples,trading_activity,ward,2,1
+KR,Consumer Staples,trading_activity,ward,2,0
+LHX,Industrials,trading_activity,ward,2,0
+LH,Health Care,trading_activity,ward,2,0
+LRCX,Information Technology,trading_activity,ward,2,0
+LVS,Consumer Discretionary,trading_activity,ward,2,0
+LDOS,Industrials,trading_activity,ward,2,0
+LEN,Consumer Discretionary,trading_activity,ward,2,0
+LII,Industrials,trading_activity,ward,2,0
+LLY,Health Care,trading_activity,ward,2,0
+LIN,Materials,trading_activity,ward,2,0
+LYV,Communication Services,trading_activity,ward,2,1
+LMT,Industrials,trading_activity,ward,2,0
+L,Financials,trading_activity,ward,2,0
+LOW,Consumer Discretionary,trading_activity,ward,2,0
+LULU,Consumer Discretionary,trading_activity,ward,2,0
+LITE,Information Technology,trading_activity,ward,2,1
+LYB,Materials,trading_activity,ward,2,1
+MTB,Financials,trading_activity,ward,2,0
+MPC,Energy,trading_activity,ward,2,0
+MAR,Consumer Discretionary,trading_activity,ward,2,0
+MRSH,Financials,trading_activity,ward,2,1
+MLM,Materials,trading_activity,ward,2,0
+MRVL,Information Technology,trading_activity,ward,2,0
+MAS,Industrials,trading_activity,ward,2,0
+MA,Financials,trading_activity,ward,2,0
+MKC,Consumer Staples,trading_activity,ward,2,1
+MCD,Consumer Discretionary,trading_activity,ward,2,0
+MCK,Health Care,trading_activity,ward,2,0
+MDT,Health Care,trading_activity,ward,2,1
+MRK,Health Care,trading_activity,ward,2,0
+META,Communication Services,trading_activity,ward,2,0
+MET,Financials,trading_activity,ward,2,0
+MTD,Health Care,trading_activity,ward,2,0
+MGM,Consumer Discretionary,trading_activity,ward,2,0
+MCHP,Information Technology,trading_activity,ward,2,0
+MU,Information Technology,trading_activity,ward,2,0
+MSFT,Information Technology,trading_activity,ward,2,0
+MAA,Real Estate,trading_activity,ward,2,0
+MRNA,Health Care,trading_activity,ward,2,0
+MDLZ,Consumer Staples,trading_activity,ward,2,0
+MPWR,Information Technology,trading_activity,ward,2,0
+MNST,Consumer Staples,trading_activity,ward,2,0
+MCO,Financials,trading_activity,ward,2,0
+MS,Financials,trading_activity,ward,2,0
+MOS,Materials,trading_activity,ward,2,1
+MSI,Information Technology,trading_activity,ward,2,0
+MSCI,Financials,trading_activity,ward,2,1
+NDAQ,Financials,trading_activity,ward,2,0
+NTAP,Information Technology,trading_activity,ward,2,1
+NFLX,Communication Services,trading_activity,ward,2,1
+NEM,Materials,trading_activity,ward,2,0
+NWSA,Communication Services,trading_activity,ward,2,0
+NWS,Communication Services,trading_activity,ward,2,0
+NEE,Utilities,trading_activity,ward,2,0
+NKE,Consumer Discretionary,trading_activity,ward,2,0
+NI,Utilities,trading_activity,ward,2,0
+NDSN,Industrials,trading_activity,ward,2,0
+NSC,Industrials,trading_activity,ward,2,0
+NTRS,Financials,trading_activity,ward,2,0
+NOC,Industrials,trading_activity,ward,2,1
+NCLH,Consumer Discretionary,trading_activity,ward,2,0
+NRG,Utilities,trading_activity,ward,2,0
+NUE,Materials,trading_activity,ward,2,0
+NVDA,Information Technology,trading_activity,ward,2,1
+NVR,Consumer Discretionary,trading_activity,ward,2,0
+NXPI,Information Technology,trading_activity,ward,2,0
+ORLY,Consumer Discretionary,trading_activity,ward,2,0
+OXY,Energy,trading_activity,ward,2,0
+OKTA,Information Technology,trading_activity,ward,2,0
+ODFL,Industrials,trading_activity,ward,2,0
+OMC,Communication Services,trading_activity,ward,2,0
+ON,Information Technology,trading_activity,ward,2,0
+OKE,Energy,trading_activity,ward,2,0
+ORCL,Information Technology,trading_activity,ward,2,0
+OTIS,Industrials,trading_activity,ward,2,0
+PCAR,Industrials,trading_activity,ward,2,0
+PKG,Materials,trading_activity,ward,2,0
+PLTR,Information Technology,trading_activity,ward,2,0
+PANW,Information Technology,trading_activity,ward,2,0
+PH,Industrials,trading_activity,ward,2,0
+PAYX,Industrials,trading_activity,ward,2,0
+PYPL,Financials,trading_activity,ward,2,0
+PNR,Industrials,trading_activity,ward,2,0
+PEP,Consumer Staples,trading_activity,ward,2,0
+PFE,Health Care,trading_activity,ward,2,0
+PCG,Utilities,trading_activity,ward,2,0
+PM,Consumer Staples,trading_activity,ward,2,0
+PSX,Energy,trading_activity,ward,2,0
+PNW,Utilities,trading_activity,ward,2,1
+PNC,Financials,trading_activity,ward,2,0
+PPG,Materials,trading_activity,ward,2,1
+PPL,Utilities,trading_activity,ward,2,0
+PFG,Financials,trading_activity,ward,2,0
+PG,Consumer Staples,trading_activity,ward,2,0
+PGR,Financials,trading_activity,ward,2,1
+PLD,Real Estate,trading_activity,ward,2,0
+PRU,Financials,trading_activity,ward,2,0
+PTC,Information Technology,trading_activity,ward,2,0
+PEG,Utilities,trading_activity,ward,2,0
+PSA,Real Estate,trading_activity,ward,2,0
+PHM,Consumer Discretionary,trading_activity,ward,2,0
+QCOM,Information Technology,trading_activity,ward,2,0
+PWR,Industrials,trading_activity,ward,2,0
+DGX,Health Care,trading_activity,ward,2,1
+RL,Consumer Discretionary,trading_activity,ward,2,0
+RJF,Financials,trading_activity,ward,2,0
+RDDT,Communication Services,trading_activity,ward,2,0
+O,Real Estate,trading_activity,ward,2,0
+REG,Real Estate,trading_activity,ward,2,0
+REGN,Health Care,trading_activity,ward,2,0
+RF,Financials,trading_activity,ward,2,0
+RSG,Industrials,trading_activity,ward,2,0
+RMD,Health Care,trading_activity,ward,2,0
+RVTY,Health Care,trading_activity,ward,2,0
+HOOD,Financials,trading_activity,ward,2,1
+ROK,Industrials,trading_activity,ward,2,0
+ROL,Industrials,trading_activity,ward,2,0
+ROP,Information Technology,trading_activity,ward,2,0
+ROST,Consumer Discretionary,trading_activity,ward,2,1
+RCL,Consumer Discretionary,trading_activity,ward,2,0
+RTX,Industrials,trading_activity,ward,2,0
+SPGI,Financials,trading_activity,ward,2,0
+CRM,Information Technology,trading_activity,ward,2,0
+SBAC,Real Estate,trading_activity,ward,2,0
+SLB,Energy,trading_activity,ward,2,0
+STX,Information Technology,trading_activity,ward,2,0
+SRE,Utilities,trading_activity,ward,2,0
+NOW,Information Technology,trading_activity,ward,2,1
+SHW,Materials,trading_activity,ward,2,1
+SPG,Real Estate,trading_activity,ward,2,0
+SKYD,Communication Services,trading_activity,ward,2,1
+SWKS,Information Technology,trading_activity,ward,2,0
+SJM,Consumer Staples,trading_activity,ward,2,1
+SW,Materials,trading_activity,ward,2,0
+SNA,Industrials,trading_activity,ward,2,0
+SOLV,Health Care,trading_activity,ward,2,0
+SO,Utilities,trading_activity,ward,2,1
+LUV,Industrials,trading_activity,ward,2,0
+SWK,Industrials,trading_activity,ward,2,0
+SBUX,Consumer Discretionary,trading_activity,ward,2,0
+STT,Financials,trading_activity,ward,2,0
+STLD,Materials,trading_activity,ward,2,0
+STE,Health Care,trading_activity,ward,2,0
+SYK,Health Care,trading_activity,ward,2,0
+SMCI,Information Technology,trading_activity,ward,2,0
+SYF,Financials,trading_activity,ward,2,0
+SNPS,Information Technology,trading_activity,ward,2,0
+SYY,Consumer Staples,trading_activity,ward,2,0
+TMUS,Communication Services,trading_activity,ward,2,0
+TROW,Financials,trading_activity,ward,2,0
+TTWO,Communication Services,trading_activity,ward,2,0
+TPR,Consumer Discretionary,trading_activity,ward,2,0
+TRGP,Energy,trading_activity,ward,2,0
+TGT,Consumer Staples,trading_activity,ward,2,1
+TEL,Information Technology,trading_activity,ward,2,0
+TDY,Information Technology,trading_activity,ward,2,0
+TER,Information Technology,trading_activity,ward,2,0
+TSLA,Consumer Discretionary,trading_activity,ward,2,0
+TXN,Information Technology,trading_activity,ward,2,1
+TPL,Energy,trading_activity,ward,2,0
+TXT,Industrials,trading_activity,ward,2,0
+TMO,Health Care,trading_activity,ward,2,1
+TJX,Consumer Discretionary,trading_activity,ward,2,0
+TKO,Communication Services,trading_activity,ward,2,1
+TSCO,Consumer Discretionary,trading_activity,ward,2,0
+TT,Industrials,trading_activity,ward,2,0
+TDG,Industrials,trading_activity,ward,2,0
+TRV,Financials,trading_activity,ward,2,1
+TRMB,Information Technology,trading_activity,ward,2,0
+TFC,Financials,trading_activity,ward,2,1
+TWLO,Information Technology,trading_activity,ward,2,0
+TYL,Information Technology,trading_activity,ward,2,1
+TSN,Consumer Staples,trading_activity,ward,2,0
+USB,Financials,trading_activity,ward,2,0
+UBER,Industrials,trading_activity,ward,2,0
+UDR,Real Estate,trading_activity,ward,2,0
+ULTA,Consumer Discretionary,trading_activity,ward,2,0
+UNP,Industrials,trading_activity,ward,2,0
+UAL,Industrials,trading_activity,ward,2,0
+UPS,Industrials,trading_activity,ward,2,0
+URI,Industrials,trading_activity,ward,2,0
+UNH,Health Care,trading_activity,ward,2,0
+UHS,Health Care,trading_activity,ward,2,0
+VLO,Energy,trading_activity,ward,2,0
+VEEV,Health Care,trading_activity,ward,2,0
+VTR,Real Estate,trading_activity,ward,2,0
+VLTO,Industrials,trading_activity,ward,2,0
+VRSN,Information Technology,trading_activity,ward,2,0
+VRSK,Industrials,trading_activity,ward,2,0
+VZ,Communication Services,trading_activity,ward,2,0
+VRTX,Health Care,trading_activity,ward,2,0
+VRT,Industrials,trading_activity,ward,2,1
+VTRS,Health Care,trading_activity,ward,2,0
+VICI,Real Estate,trading_activity,ward,2,0
+V,Financials,trading_activity,ward,2,0
+VST,Utilities,trading_activity,ward,2,1
+VMRK,Real Estate,trading_activity,ward,2,0
+VMC,Materials,trading_activity,ward,2,0
+WRB,Financials,trading_activity,ward,2,0
+GWW,Industrials,trading_activity,ward,2,0
+WAB,Industrials,trading_activity,ward,2,0
+WMT,Consumer Staples,trading_activity,ward,2,0
+DIS,Communication Services,trading_activity,ward,2,0
+WM,Industrials,trading_activity,ward,2,0
+WAT,Health Care,trading_activity,ward,2,0
+WEC,Utilities,trading_activity,ward,2,1
+WFC,Financials,trading_activity,ward,2,0
+WELL,Real Estate,trading_activity,ward,2,0
+WST,Health Care,trading_activity,ward,2,0
+WDC,Information Technology,trading_activity,ward,2,0
+WY,Real Estate,trading_activity,ward,2,0
+WSM,Consumer Discretionary,trading_activity,ward,2,0
+WMB,Energy,trading_activity,ward,2,0
+WTW,Financials,trading_activity,ward,2,0
+WDAY,Information Technology,trading_activity,ward,2,0
+WYNN,Consumer Discretionary,trading_activity,ward,2,1
+XEL,Utilities,trading_activity,ward,2,0
+XYL,Industrials,trading_activity,ward,2,1
+YUM,Consumer Discretionary,trading_activity,ward,2,1
+ZBRA,Information Technology,trading_activity,ward,2,0
+ZBH,Health Care,trading_activity,ward,2,0
+ZTS,Health Care,trading_activity,ward,2,0
+MMM,Industrials,trading_activity,kmeans,2,1
+AOS,Industrials,trading_activity,kmeans,2,1
+ABT,Health Care,trading_activity,kmeans,2,1
+ABBV,Health Care,trading_activity,kmeans,2,1
+ACN,Information Technology,trading_activity,kmeans,2,1
+ADBE,Information Technology,trading_activity,kmeans,2,1
+AMD,Information Technology,trading_activity,kmeans,2,1
+AES,Utilities,trading_activity,kmeans,2,0
+AFL,Financials,trading_activity,kmeans,2,1
+A,Health Care,trading_activity,kmeans,2,1
+APD,Materials,trading_activity,kmeans,2,0
+ABNB,Consumer Discretionary,trading_activity,kmeans,2,1
+AKAM,Information Technology,trading_activity,kmeans,2,0
+ALB,Materials,trading_activity,kmeans,2,1
+ARE,Real Estate,trading_activity,kmeans,2,1
+ALGN,Health Care,trading_activity,kmeans,2,1
+ALLE,Industrials,trading_activity,kmeans,2,1
+LNT,Utilities,trading_activity,kmeans,2,0
+ALL,Financials,trading_activity,kmeans,2,1
+GOOGL,Communication Services,trading_activity,kmeans,2,1
+GOOG,Communication Services,trading_activity,kmeans,2,1
+MO,Consumer Staples,trading_activity,kmeans,2,1
+AMZN,Consumer Discretionary,trading_activity,kmeans,2,1
+AMCR,Materials,trading_activity,kmeans,2,1
+AEE,Utilities,trading_activity,kmeans,2,1
+AEP,Utilities,trading_activity,kmeans,2,1
+AXP,Financials,trading_activity,kmeans,2,1
+AIG,Financials,trading_activity,kmeans,2,1
+AMT,Real Estate,trading_activity,kmeans,2,1
+AWK,Utilities,trading_activity,kmeans,2,1
+AMP,Financials,trading_activity,kmeans,2,1
+AME,Industrials,trading_activity,kmeans,2,1
+AMGN,Health Care,trading_activity,kmeans,2,1
+APH,Information Technology,trading_activity,kmeans,2,0
+ADI,Information Technology,trading_activity,kmeans,2,0
+AON,Financials,trading_activity,kmeans,2,1
+APA,Energy,trading_activity,kmeans,2,1
+APO,Financials,trading_activity,kmeans,2,1
+AAPL,Information Technology,trading_activity,kmeans,2,1
+AMAT,Information Technology,trading_activity,kmeans,2,1
+APP,Communication Services,trading_activity,kmeans,2,1
+APTV,Consumer Discretionary,trading_activity,kmeans,2,1
+ACGL,Financials,trading_activity,kmeans,2,1
+ADM,Consumer Staples,trading_activity,kmeans,2,1
+ARES,Financials,trading_activity,kmeans,2,1
+ANET,Information Technology,trading_activity,kmeans,2,0
+AJG,Financials,trading_activity,kmeans,2,1
+AIZ,Financials,trading_activity,kmeans,2,1
+T,Communication Services,trading_activity,kmeans,2,1
+ATO,Utilities,trading_activity,kmeans,2,1
+ADSK,Information Technology,trading_activity,kmeans,2,1
+ADP,Industrials,trading_activity,kmeans,2,1
+AZO,Consumer Discretionary,trading_activity,kmeans,2,0
+AVY,Materials,trading_activity,kmeans,2,1
+AXON,Industrials,trading_activity,kmeans,2,1
+BKR,Energy,trading_activity,kmeans,2,1
+BALL,Materials,trading_activity,kmeans,2,1
+BAC,Financials,trading_activity,kmeans,2,1
+BAX,Health Care,trading_activity,kmeans,2,1
+BDX,Health Care,trading_activity,kmeans,2,0
+BRK-B,Financials,trading_activity,kmeans,2,1
+BBY,Consumer Discretionary,trading_activity,kmeans,2,1
+TECH,Health Care,trading_activity,kmeans,2,1
+BIIB,Health Care,trading_activity,kmeans,2,1
+BLK,Financials,trading_activity,kmeans,2,1
+BX,Financials,trading_activity,kmeans,2,1
+XYZ,Financials,trading_activity,kmeans,2,1
+BE,Industrials,trading_activity,kmeans,2,1
+BNY,Financials,trading_activity,kmeans,2,1
+BA,Industrials,trading_activity,kmeans,2,1
+BKNG,Consumer Discretionary,trading_activity,kmeans,2,1
+BSX,Health Care,trading_activity,kmeans,2,1
+BMY,Health Care,trading_activity,kmeans,2,1
+AVGO,Information Technology,trading_activity,kmeans,2,1
+BR,Industrials,trading_activity,kmeans,2,1
+BRO,Financials,trading_activity,kmeans,2,1
+BF-B,Consumer Staples,trading_activity,kmeans,2,1
+BG,Consumer Staples,trading_activity,kmeans,2,1
+BXP,Real Estate,trading_activity,kmeans,2,1
+CHRW,Industrials,trading_activity,kmeans,2,1
+CDNS,Information Technology,trading_activity,kmeans,2,0
+CPT,Real Estate,trading_activity,kmeans,2,1
+COF,Financials,trading_activity,kmeans,2,0
+CAH,Health Care,trading_activity,kmeans,2,1
+CCL,Consumer Discretionary,trading_activity,kmeans,2,1
+CARR,Industrials,trading_activity,kmeans,2,1
+CVNA,Consumer Discretionary,trading_activity,kmeans,2,1
+CASY,Consumer Staples,trading_activity,kmeans,2,1
+CAT,Industrials,trading_activity,kmeans,2,1
+CBOE,Financials,trading_activity,kmeans,2,1
+CBRE,Real Estate,trading_activity,kmeans,2,1
+CDW,Information Technology,trading_activity,kmeans,2,0
+COR,Health Care,trading_activity,kmeans,2,0
+CNC,Health Care,trading_activity,kmeans,2,1
+CNP,Utilities,trading_activity,kmeans,2,1
+CF,Materials,trading_activity,kmeans,2,1
+CRL,Health Care,trading_activity,kmeans,2,1
+SCHW,Financials,trading_activity,kmeans,2,0
+CHTR,Communication Services,trading_activity,kmeans,2,1
+CVX,Energy,trading_activity,kmeans,2,1
+CMG,Consumer Discretionary,trading_activity,kmeans,2,0
+CB,Financials,trading_activity,kmeans,2,0
+CHD,Consumer Staples,trading_activity,kmeans,2,1
+CIEN,Information Technology,trading_activity,kmeans,2,1
+CI,Health Care,trading_activity,kmeans,2,1
+CINF,Financials,trading_activity,kmeans,2,1
+CTAS,Industrials,trading_activity,kmeans,2,1
+CSCO,Information Technology,trading_activity,kmeans,2,1
+C,Financials,trading_activity,kmeans,2,1
+CFG,Financials,trading_activity,kmeans,2,1
+CLX,Consumer Staples,trading_activity,kmeans,2,1
+CME,Financials,trading_activity,kmeans,2,1
+CMS,Utilities,trading_activity,kmeans,2,1
+KO,Consumer Staples,trading_activity,kmeans,2,1
+CTSH,Information Technology,trading_activity,kmeans,2,1
+COHR,Information Technology,trading_activity,kmeans,2,1
+COIN,Financials,trading_activity,kmeans,2,0
+CL,Consumer Staples,trading_activity,kmeans,2,1
+CMCSA,Communication Services,trading_activity,kmeans,2,1
+FIX,Industrials,trading_activity,kmeans,2,0
+COP,Energy,trading_activity,kmeans,2,1
+ED,Utilities,trading_activity,kmeans,2,1
+STZ,Consumer Staples,trading_activity,kmeans,2,1
+CEG,Utilities,trading_activity,kmeans,2,0
+COO,Health Care,trading_activity,kmeans,2,1
+CPRT,Industrials,trading_activity,kmeans,2,1
+GLW,Information Technology,trading_activity,kmeans,2,1
+CPAY,Financials,trading_activity,kmeans,2,1
+CSGP,Real Estate,trading_activity,kmeans,2,1
+COST,Consumer Staples,trading_activity,kmeans,2,1
+CRH,Materials,trading_activity,kmeans,2,0
+CRWD,Information Technology,trading_activity,kmeans,2,0
+CCI,Real Estate,trading_activity,kmeans,2,1
+CSX,Industrials,trading_activity,kmeans,2,0
+CMI,Industrials,trading_activity,kmeans,2,1
+CVS,Health Care,trading_activity,kmeans,2,1
+DHR,Health Care,trading_activity,kmeans,2,1
+DRI,Consumer Discretionary,trading_activity,kmeans,2,1
+DDOG,Information Technology,trading_activity,kmeans,2,1
+DVA,Health Care,trading_activity,kmeans,2,1
+DECK,Consumer Discretionary,trading_activity,kmeans,2,1
+DE,Industrials,trading_activity,kmeans,2,0
+DELL,Information Technology,trading_activity,kmeans,2,1
+DAL,Industrials,trading_activity,kmeans,2,1
+DVN,Energy,trading_activity,kmeans,2,1
+DXCM,Health Care,trading_activity,kmeans,2,1
+FANG,Energy,trading_activity,kmeans,2,1
+DLR,Real Estate,trading_activity,kmeans,2,1
+DG,Consumer Staples,trading_activity,kmeans,2,1
+DLTR,Consumer Staples,trading_activity,kmeans,2,0
+D,Utilities,trading_activity,kmeans,2,0
+DPZ,Consumer Discretionary,trading_activity,kmeans,2,0
+DASH,Consumer Discretionary,trading_activity,kmeans,2,1
+DOV,Industrials,trading_activity,kmeans,2,1
+DOW,Materials,trading_activity,kmeans,2,1
+DHI,Consumer Discretionary,trading_activity,kmeans,2,1
+DTE,Utilities,trading_activity,kmeans,2,1
+DUK,Utilities,trading_activity,kmeans,2,0
+DD,Industrials,trading_activity,kmeans,2,1
+ETN,Industrials,trading_activity,kmeans,2,1
+EBAY,Consumer Discretionary,trading_activity,kmeans,2,1
+ECHO,Communication Services,trading_activity,kmeans,2,1
+ECL,Materials,trading_activity,kmeans,2,1
+EIX,Utilities,trading_activity,kmeans,2,1
+EW,Health Care,trading_activity,kmeans,2,1
+ELV,Health Care,trading_activity,kmeans,2,0
+EME,Industrials,trading_activity,kmeans,2,1
+EMR,Industrials,trading_activity,kmeans,2,1
+ETR,Utilities,trading_activity,kmeans,2,0
+EOG,Energy,trading_activity,kmeans,2,1
+EQT,Energy,trading_activity,kmeans,2,1
+EFX,Industrials,trading_activity,kmeans,2,1
+EQIX,Real Estate,trading_activity,kmeans,2,1
+ERIE,Financials,trading_activity,kmeans,2,1
+ESS,Real Estate,trading_activity,kmeans,2,1
+EL,Consumer Staples,trading_activity,kmeans,2,0
+EG,Financials,trading_activity,kmeans,2,1
+EVRG,Utilities,trading_activity,kmeans,2,1
+P,Information Technology,trading_activity,kmeans,2,1
+ES,Utilities,trading_activity,kmeans,2,1
+EXC,Utilities,trading_activity,kmeans,2,1
+EXE,Energy,trading_activity,kmeans,2,1
+EXPE,Consumer Discretionary,trading_activity,kmeans,2,1
+EXPD,Industrials,trading_activity,kmeans,2,1
+EXR,Real Estate,trading_activity,kmeans,2,1
+XOM,Energy,trading_activity,kmeans,2,1
+FFIV,Information Technology,trading_activity,kmeans,2,1
+FDS,Financials,trading_activity,kmeans,2,1
+FICO,Information Technology,trading_activity,kmeans,2,0
+FAST,Industrials,trading_activity,kmeans,2,1
+FRT,Real Estate,trading_activity,kmeans,2,1
+FDX,Industrials,trading_activity,kmeans,2,1
+FERG,Industrials,trading_activity,kmeans,2,1
+FIS,Financials,trading_activity,kmeans,2,1
+FITB,Financials,trading_activity,kmeans,2,1
+FSLR,Information Technology,trading_activity,kmeans,2,0
+FE,Utilities,trading_activity,kmeans,2,1
+FISV,Financials,trading_activity,kmeans,2,1
+FLEX,Information Technology,trading_activity,kmeans,2,1
+F,Consumer Discretionary,trading_activity,kmeans,2,0
+FTNT,Information Technology,trading_activity,kmeans,2,1
+FTV,Industrials,trading_activity,kmeans,2,1
+FOXA,Communication Services,trading_activity,kmeans,2,1
+FOX,Communication Services,trading_activity,kmeans,2,1
+BEN,Financials,trading_activity,kmeans,2,1
+FCX,Materials,trading_activity,kmeans,2,0
+GRMN,Consumer Discretionary,trading_activity,kmeans,2,1
+IT,Information Technology,trading_activity,kmeans,2,1
+GE,Industrials,trading_activity,kmeans,2,1
+GEHC,Health Care,trading_activity,kmeans,2,1
+GEV,Industrials,trading_activity,kmeans,2,1
+GEN,Information Technology,trading_activity,kmeans,2,1
+GNRC,Industrials,trading_activity,kmeans,2,1
+GD,Industrials,trading_activity,kmeans,2,1
+GIS,Consumer Staples,trading_activity,kmeans,2,1
+GM,Consumer Discretionary,trading_activity,kmeans,2,1
+GPC,Consumer Discretionary,trading_activity,kmeans,2,1
+GILD,Health Care,trading_activity,kmeans,2,1
+GPN,Financials,trading_activity,kmeans,2,0
+GL,Financials,trading_activity,kmeans,2,1
+GDDY,Information Technology,trading_activity,kmeans,2,0
+GS,Financials,trading_activity,kmeans,2,1
+HAL,Energy,trading_activity,kmeans,2,0
+HIG,Financials,trading_activity,kmeans,2,1
+HAS,Consumer Discretionary,trading_activity,kmeans,2,1
+HCA,Health Care,trading_activity,kmeans,2,0
+DOC,Real Estate,trading_activity,kmeans,2,1
+HSIC,Health Care,trading_activity,kmeans,2,1
+HSY,Consumer Staples,trading_activity,kmeans,2,1
+HPE,Information Technology,trading_activity,kmeans,2,1
+HLT,Consumer Discretionary,trading_activity,kmeans,2,1
+HD,Consumer Discretionary,trading_activity,kmeans,2,1
+HON,Industrials,trading_activity,kmeans,2,1
+HRL,Consumer Staples,trading_activity,kmeans,2,0
+HST,Real Estate,trading_activity,kmeans,2,1
+HWM,Industrials,trading_activity,kmeans,2,1
+HPQ,Information Technology,trading_activity,kmeans,2,1
+HUBB,Industrials,trading_activity,kmeans,2,1
+HUM,Health Care,trading_activity,kmeans,2,1
+HBAN,Financials,trading_activity,kmeans,2,1
+HII,Industrials,trading_activity,kmeans,2,1
+IBM,Information Technology,trading_activity,kmeans,2,1
+IEX,Industrials,trading_activity,kmeans,2,1
+IDXX,Health Care,trading_activity,kmeans,2,0
+ITW,Industrials,trading_activity,kmeans,2,1
+ILMN,Health Care,trading_activity,kmeans,2,1
+INCY,Health Care,trading_activity,kmeans,2,1
+IR,Industrials,trading_activity,kmeans,2,1
+PODD,Health Care,trading_activity,kmeans,2,1
+INTC,Information Technology,trading_activity,kmeans,2,1
+IBKR,Financials,trading_activity,kmeans,2,1
+ICE,Financials,trading_activity,kmeans,2,1
+IFF,Materials,trading_activity,kmeans,2,1
+IP,Materials,trading_activity,kmeans,2,0
+INTU,Information Technology,trading_activity,kmeans,2,0
+ISRG,Health Care,trading_activity,kmeans,2,1
+IVZ,Financials,trading_activity,kmeans,2,1
+INVH,Real Estate,trading_activity,kmeans,2,1
+IQV,Health Care,trading_activity,kmeans,2,1
+IRM,Real Estate,trading_activity,kmeans,2,1
+JBHT,Industrials,trading_activity,kmeans,2,1
+JBL,Information Technology,trading_activity,kmeans,2,1
+JKHY,Financials,trading_activity,kmeans,2,0
+J,Industrials,trading_activity,kmeans,2,1
+JNJ,Health Care,trading_activity,kmeans,2,1
+JCI,Industrials,trading_activity,kmeans,2,0
+JPM,Financials,trading_activity,kmeans,2,1
+KDP,Consumer Staples,trading_activity,kmeans,2,1
+KEY,Financials,trading_activity,kmeans,2,1
+KEYS,Information Technology,trading_activity,kmeans,2,1
+KMB,Consumer Staples,trading_activity,kmeans,2,1
+KIM,Real Estate,trading_activity,kmeans,2,1
+KMI,Energy,trading_activity,kmeans,2,1
+KKR,Financials,trading_activity,kmeans,2,1
+KLAC,Information Technology,trading_activity,kmeans,2,1
+KHC,Consumer Staples,trading_activity,kmeans,2,0
+KR,Consumer Staples,trading_activity,kmeans,2,1
+LHX,Industrials,trading_activity,kmeans,2,1
+LH,Health Care,trading_activity,kmeans,2,1
+LRCX,Information Technology,trading_activity,kmeans,2,1
+LVS,Consumer Discretionary,trading_activity,kmeans,2,1
+LDOS,Industrials,trading_activity,kmeans,2,1
+LEN,Consumer Discretionary,trading_activity,kmeans,2,1
+LII,Industrials,trading_activity,kmeans,2,1
+LLY,Health Care,trading_activity,kmeans,2,1
+LIN,Materials,trading_activity,kmeans,2,1
+LYV,Communication Services,trading_activity,kmeans,2,0
+LMT,Industrials,trading_activity,kmeans,2,1
+L,Financials,trading_activity,kmeans,2,1
+LOW,Consumer Discretionary,trading_activity,kmeans,2,1
+LULU,Consumer Discretionary,trading_activity,kmeans,2,1
+LITE,Information Technology,trading_activity,kmeans,2,0
+LYB,Materials,trading_activity,kmeans,2,1
+MTB,Financials,trading_activity,kmeans,2,1
+MPC,Energy,trading_activity,kmeans,2,1
+MAR,Consumer Discretionary,trading_activity,kmeans,2,1
+MRSH,Financials,trading_activity,kmeans,2,0
+MLM,Materials,trading_activity,kmeans,2,1
+MRVL,Information Technology,trading_activity,kmeans,2,1
+MAS,Industrials,trading_activity,kmeans,2,1
+MA,Financials,trading_activity,kmeans,2,1
+MKC,Consumer Staples,trading_activity,kmeans,2,0
+MCD,Consumer Discretionary,trading_activity,kmeans,2,1
+MCK,Health Care,trading_activity,kmeans,2,1
+MDT,Health Care,trading_activity,kmeans,2,0
+MRK,Health Care,trading_activity,kmeans,2,1
+META,Communication Services,trading_activity,kmeans,2,1
+MET,Financials,trading_activity,kmeans,2,1
+MTD,Health Care,trading_activity,kmeans,2,1
+MGM,Consumer Discretionary,trading_activity,kmeans,2,1
+MCHP,Information Technology,trading_activity,kmeans,2,1
+MU,Information Technology,trading_activity,kmeans,2,1
+MSFT,Information Technology,trading_activity,kmeans,2,1
+MAA,Real Estate,trading_activity,kmeans,2,1
+MRNA,Health Care,trading_activity,kmeans,2,1
+MDLZ,Consumer Staples,trading_activity,kmeans,2,1
+MPWR,Information Technology,trading_activity,kmeans,2,1
+MNST,Consumer Staples,trading_activity,kmeans,2,1
+MCO,Financials,trading_activity,kmeans,2,1
+MS,Financials,trading_activity,kmeans,2,1
+MOS,Materials,trading_activity,kmeans,2,0
+MSI,Information Technology,trading_activity,kmeans,2,1
+MSCI,Financials,trading_activity,kmeans,2,0
+NDAQ,Financials,trading_activity,kmeans,2,1
+NTAP,Information Technology,trading_activity,kmeans,2,1
+NFLX,Communication Services,trading_activity,kmeans,2,0
+NEM,Materials,trading_activity,kmeans,2,1
+NWSA,Communication Services,trading_activity,kmeans,2,1
+NWS,Communication Services,trading_activity,kmeans,2,1
+NEE,Utilities,trading_activity,kmeans,2,1
+NKE,Consumer Discretionary,trading_activity,kmeans,2,1
+NI,Utilities,trading_activity,kmeans,2,1
+NDSN,Industrials,trading_activity,kmeans,2,1
+NSC,Industrials,trading_activity,kmeans,2,1
+NTRS,Financials,trading_activity,kmeans,2,1
+NOC,Industrials,trading_activity,kmeans,2,1
+NCLH,Consumer Discretionary,trading_activity,kmeans,2,1
+NRG,Utilities,trading_activity,kmeans,2,1
+NUE,Materials,trading_activity,kmeans,2,1
+NVDA,Information Technology,trading_activity,kmeans,2,0
+NVR,Consumer Discretionary,trading_activity,kmeans,2,1
+NXPI,Information Technology,trading_activity,kmeans,2,1
+ORLY,Consumer Discretionary,trading_activity,kmeans,2,1
+OXY,Energy,trading_activity,kmeans,2,1
+OKTA,Information Technology,trading_activity,kmeans,2,1
+ODFL,Industrials,trading_activity,kmeans,2,1
+OMC,Communication Services,trading_activity,kmeans,2,1
+ON,Information Technology,trading_activity,kmeans,2,1
+OKE,Energy,trading_activity,kmeans,2,1
+ORCL,Information Technology,trading_activity,kmeans,2,1
+OTIS,Industrials,trading_activity,kmeans,2,1
+PCAR,Industrials,trading_activity,kmeans,2,1
+PKG,Materials,trading_activity,kmeans,2,1
+PLTR,Information Technology,trading_activity,kmeans,2,1
+PANW,Information Technology,trading_activity,kmeans,2,1
+PH,Industrials,trading_activity,kmeans,2,1
+PAYX,Industrials,trading_activity,kmeans,2,1
+PYPL,Financials,trading_activity,kmeans,2,1
+PNR,Industrials,trading_activity,kmeans,2,1
+PEP,Consumer Staples,trading_activity,kmeans,2,1
+PFE,Health Care,trading_activity,kmeans,2,1
+PCG,Utilities,trading_activity,kmeans,2,1
+PM,Consumer Staples,trading_activity,kmeans,2,1
+PSX,Energy,trading_activity,kmeans,2,1
+PNW,Utilities,trading_activity,kmeans,2,0
+PNC,Financials,trading_activity,kmeans,2,1
+PPG,Materials,trading_activity,kmeans,2,1
+PPL,Utilities,trading_activity,kmeans,2,1
+PFG,Financials,trading_activity,kmeans,2,1
+PG,Consumer Staples,trading_activity,kmeans,2,1
+PGR,Financials,trading_activity,kmeans,2,0
+PLD,Real Estate,trading_activity,kmeans,2,1
+PRU,Financials,trading_activity,kmeans,2,1
+PTC,Information Technology,trading_activity,kmeans,2,1
+PEG,Utilities,trading_activity,kmeans,2,1
+PSA,Real Estate,trading_activity,kmeans,2,1
+PHM,Consumer Discretionary,trading_activity,kmeans,2,1
+QCOM,Information Technology,trading_activity,kmeans,2,1
+PWR,Industrials,trading_activity,kmeans,2,1
+DGX,Health Care,trading_activity,kmeans,2,0
+RL,Consumer Discretionary,trading_activity,kmeans,2,1
+RJF,Financials,trading_activity,kmeans,2,1
+RDDT,Communication Services,trading_activity,kmeans,2,1
+O,Real Estate,trading_activity,kmeans,2,1
+REG,Real Estate,trading_activity,kmeans,2,1
+REGN,Health Care,trading_activity,kmeans,2,1
+RF,Financials,trading_activity,kmeans,2,1
+RSG,Industrials,trading_activity,kmeans,2,1
+RMD,Health Care,trading_activity,kmeans,2,1
+RVTY,Health Care,trading_activity,kmeans,2,1
+HOOD,Financials,trading_activity,kmeans,2,0
+ROK,Industrials,trading_activity,kmeans,2,1
+ROL,Industrials,trading_activity,kmeans,2,1
+ROP,Information Technology,trading_activity,kmeans,2,1
+ROST,Consumer Discretionary,trading_activity,kmeans,2,0
+RCL,Consumer Discretionary,trading_activity,kmeans,2,1
+RTX,Industrials,trading_activity,kmeans,2,1
+SPGI,Financials,trading_activity,kmeans,2,1
+CRM,Information Technology,trading_activity,kmeans,2,1
+SBAC,Real Estate,trading_activity,kmeans,2,1
+SLB,Energy,trading_activity,kmeans,2,1
+STX,Information Technology,trading_activity,kmeans,2,1
+SRE,Utilities,trading_activity,kmeans,2,1
+NOW,Information Technology,trading_activity,kmeans,2,0
+SHW,Materials,trading_activity,kmeans,2,0
+SPG,Real Estate,trading_activity,kmeans,2,1
+SKYD,Communication Services,trading_activity,kmeans,2,1
+SWKS,Information Technology,trading_activity,kmeans,2,1
+SJM,Consumer Staples,trading_activity,kmeans,2,1
+SW,Materials,trading_activity,kmeans,2,1
+SNA,Industrials,trading_activity,kmeans,2,1
+SOLV,Health Care,trading_activity,kmeans,2,1
+SO,Utilities,trading_activity,kmeans,2,0
+LUV,Industrials,trading_activity,kmeans,2,1
+SWK,Industrials,trading_activity,kmeans,2,1
+SBUX,Consumer Discretionary,trading_activity,kmeans,2,1
+STT,Financials,trading_activity,kmeans,2,1
+STLD,Materials,trading_activity,kmeans,2,1
+STE,Health Care,trading_activity,kmeans,2,1
+SYK,Health Care,trading_activity,kmeans,2,1
+SMCI,Information Technology,trading_activity,kmeans,2,1
+SYF,Financials,trading_activity,kmeans,2,1
+SNPS,Information Technology,trading_activity,kmeans,2,1
+SYY,Consumer Staples,trading_activity,kmeans,2,1
+TMUS,Communication Services,trading_activity,kmeans,2,1
+TROW,Financials,trading_activity,kmeans,2,1
+TTWO,Communication Services,trading_activity,kmeans,2,1
+TPR,Consumer Discretionary,trading_activity,kmeans,2,1
+TRGP,Energy,trading_activity,kmeans,2,1
+TGT,Consumer Staples,trading_activity,kmeans,2,1
+TEL,Information Technology,trading_activity,kmeans,2,1
+TDY,Information Technology,trading_activity,kmeans,2,1
+TER,Information Technology,trading_activity,kmeans,2,1
+TSLA,Consumer Discretionary,trading_activity,kmeans,2,0
+TXN,Information Technology,trading_activity,kmeans,2,0
+TPL,Energy,trading_activity,kmeans,2,1
+TXT,Industrials,trading_activity,kmeans,2,1
+TMO,Health Care,trading_activity,kmeans,2,0
+TJX,Consumer Discretionary,trading_activity,kmeans,2,1
+TKO,Communication Services,trading_activity,kmeans,2,1
+TSCO,Consumer Discretionary,trading_activity,kmeans,2,1
+TT,Industrials,trading_activity,kmeans,2,1
+TDG,Industrials,trading_activity,kmeans,2,1
+TRV,Financials,trading_activity,kmeans,2,0
+TRMB,Information Technology,trading_activity,kmeans,2,1
+TFC,Financials,trading_activity,kmeans,2,0
+TWLO,Information Technology,trading_activity,kmeans,2,1
+TYL,Information Technology,trading_activity,kmeans,2,1
+TSN,Consumer Staples,trading_activity,kmeans,2,1
+USB,Financials,trading_activity,kmeans,2,1
+UBER,Industrials,trading_activity,kmeans,2,1
+UDR,Real Estate,trading_activity,kmeans,2,1
+ULTA,Consumer Discretionary,trading_activity,kmeans,2,1
+UNP,Industrials,trading_activity,kmeans,2,1
+UAL,Industrials,trading_activity,kmeans,2,1
+UPS,Industrials,trading_activity,kmeans,2,1
+URI,Industrials,trading_activity,kmeans,2,1
+UNH,Health Care,trading_activity,kmeans,2,1
+UHS,Health Care,trading_activity,kmeans,2,1
+VLO,Energy,trading_activity,kmeans,2,1
+VEEV,Health Care,trading_activity,kmeans,2,1
+VTR,Real Estate,trading_activity,kmeans,2,1
+VLTO,Industrials,trading_activity,kmeans,2,1
+VRSN,Information Technology,trading_activity,kmeans,2,1
+VRSK,Industrials,trading_activity,kmeans,2,1
+VZ,Communication Services,trading_activity,kmeans,2,1
+VRTX,Health Care,trading_activity,kmeans,2,1
+VRT,Industrials,trading_activity,kmeans,2,0
+VTRS,Health Care,trading_activity,kmeans,2,1
+VICI,Real Estate,trading_activity,kmeans,2,1
+V,Financials,trading_activity,kmeans,2,1
+VST,Utilities,trading_activity,kmeans,2,0
+VMRK,Real Estate,trading_activity,kmeans,2,1
+VMC,Materials,trading_activity,kmeans,2,1
+WRB,Financials,trading_activity,kmeans,2,1
+GWW,Industrials,trading_activity,kmeans,2,1
+WAB,Industrials,trading_activity,kmeans,2,1
+WMT,Consumer Staples,trading_activity,kmeans,2,1
+DIS,Communication Services,trading_activity,kmeans,2,1
+WM,Industrials,trading_activity,kmeans,2,1
+WAT,Health Care,trading_activity,kmeans,2,1
+WEC,Utilities,trading_activity,kmeans,2,0
+WFC,Financials,trading_activity,kmeans,2,1
+WELL,Real Estate,trading_activity,kmeans,2,1
+WST,Health Care,trading_activity,kmeans,2,1
+WDC,Information Technology,trading_activity,kmeans,2,1
+WY,Real Estate,trading_activity,kmeans,2,1
+WSM,Consumer Discretionary,trading_activity,kmeans,2,1
+WMB,Energy,trading_activity,kmeans,2,1
+WTW,Financials,trading_activity,kmeans,2,1
+WDAY,Information Technology,trading_activity,kmeans,2,1
+WYNN,Consumer Discretionary,trading_activity,kmeans,2,0
+XEL,Utilities,trading_activity,kmeans,2,1
+XYL,Industrials,trading_activity,kmeans,2,1
+YUM,Consumer Discretionary,trading_activity,kmeans,2,0
+ZBRA,Information Technology,trading_activity,kmeans,2,1
+ZBH,Health Care,trading_activity,kmeans,2,1
+ZTS,Health Care,trading_activity,kmeans,2,1
+MMM,Industrials,trading_activity_rf_only,ward,2,0
+AOS,Industrials,trading_activity_rf_only,ward,2,0
+ABT,Health Care,trading_activity_rf_only,ward,2,0
+ABBV,Health Care,trading_activity_rf_only,ward,2,0
+ACN,Information Technology,trading_activity_rf_only,ward,2,0
+ADBE,Information Technology,trading_activity_rf_only,ward,2,0
+AMD,Information Technology,trading_activity_rf_only,ward,2,0
+AES,Utilities,trading_activity_rf_only,ward,2,1
+AFL,Financials,trading_activity_rf_only,ward,2,0
+A,Health Care,trading_activity_rf_only,ward,2,0
+APD,Materials,trading_activity_rf_only,ward,2,1
+ABNB,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+AKAM,Information Technology,trading_activity_rf_only,ward,2,1
+ALB,Materials,trading_activity_rf_only,ward,2,0
+ARE,Real Estate,trading_activity_rf_only,ward,2,0
+ALGN,Health Care,trading_activity_rf_only,ward,2,0
+ALLE,Industrials,trading_activity_rf_only,ward,2,0
+LNT,Utilities,trading_activity_rf_only,ward,2,1
+ALL,Financials,trading_activity_rf_only,ward,2,1
+GOOGL,Communication Services,trading_activity_rf_only,ward,2,0
+GOOG,Communication Services,trading_activity_rf_only,ward,2,0
+MO,Consumer Staples,trading_activity_rf_only,ward,2,0
+AMZN,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+AMCR,Materials,trading_activity_rf_only,ward,2,0
+AEE,Utilities,trading_activity_rf_only,ward,2,0
+AEP,Utilities,trading_activity_rf_only,ward,2,0
+AXP,Financials,trading_activity_rf_only,ward,2,0
+AIG,Financials,trading_activity_rf_only,ward,2,0
+AMT,Real Estate,trading_activity_rf_only,ward,2,0
+AWK,Utilities,trading_activity_rf_only,ward,2,0
+AMP,Financials,trading_activity_rf_only,ward,2,0
+AME,Industrials,trading_activity_rf_only,ward,2,0
+AMGN,Health Care,trading_activity_rf_only,ward,2,0
+APH,Information Technology,trading_activity_rf_only,ward,2,1
+ADI,Information Technology,trading_activity_rf_only,ward,2,1
+AON,Financials,trading_activity_rf_only,ward,2,0
+APA,Energy,trading_activity_rf_only,ward,2,0
+APO,Financials,trading_activity_rf_only,ward,2,0
+AAPL,Information Technology,trading_activity_rf_only,ward,2,0
+AMAT,Information Technology,trading_activity_rf_only,ward,2,0
+APP,Communication Services,trading_activity_rf_only,ward,2,0
+APTV,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+ACGL,Financials,trading_activity_rf_only,ward,2,0
+ADM,Consumer Staples,trading_activity_rf_only,ward,2,0
+ARES,Financials,trading_activity_rf_only,ward,2,0
+ANET,Information Technology,trading_activity_rf_only,ward,2,1
+AJG,Financials,trading_activity_rf_only,ward,2,0
+AIZ,Financials,trading_activity_rf_only,ward,2,0
+T,Communication Services,trading_activity_rf_only,ward,2,0
+ATO,Utilities,trading_activity_rf_only,ward,2,0
+ADSK,Information Technology,trading_activity_rf_only,ward,2,0
+ADP,Industrials,trading_activity_rf_only,ward,2,0
+AZO,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+AVY,Materials,trading_activity_rf_only,ward,2,0
+AXON,Industrials,trading_activity_rf_only,ward,2,0
+BKR,Energy,trading_activity_rf_only,ward,2,0
+BALL,Materials,trading_activity_rf_only,ward,2,0
+BAC,Financials,trading_activity_rf_only,ward,2,0
+BAX,Health Care,trading_activity_rf_only,ward,2,0
+BDX,Health Care,trading_activity_rf_only,ward,2,1
+BRK-B,Financials,trading_activity_rf_only,ward,2,0
+BBY,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+TECH,Health Care,trading_activity_rf_only,ward,2,0
+BIIB,Health Care,trading_activity_rf_only,ward,2,0
+BLK,Financials,trading_activity_rf_only,ward,2,0
+BX,Financials,trading_activity_rf_only,ward,2,0
+XYZ,Financials,trading_activity_rf_only,ward,2,0
+BE,Industrials,trading_activity_rf_only,ward,2,0
+BNY,Financials,trading_activity_rf_only,ward,2,0
+BA,Industrials,trading_activity_rf_only,ward,2,0
+BKNG,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+BSX,Health Care,trading_activity_rf_only,ward,2,0
+BMY,Health Care,trading_activity_rf_only,ward,2,0
+AVGO,Information Technology,trading_activity_rf_only,ward,2,0
+BR,Industrials,trading_activity_rf_only,ward,2,0
+BRO,Financials,trading_activity_rf_only,ward,2,0
+BF-B,Consumer Staples,trading_activity_rf_only,ward,2,0
+BG,Consumer Staples,trading_activity_rf_only,ward,2,0
+BXP,Real Estate,trading_activity_rf_only,ward,2,0
+CHRW,Industrials,trading_activity_rf_only,ward,2,0
+CDNS,Information Technology,trading_activity_rf_only,ward,2,1
+CPT,Real Estate,trading_activity_rf_only,ward,2,0
+COF,Financials,trading_activity_rf_only,ward,2,1
+CAH,Health Care,trading_activity_rf_only,ward,2,0
+CCL,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+CARR,Industrials,trading_activity_rf_only,ward,2,0
+CVNA,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+CASY,Consumer Staples,trading_activity_rf_only,ward,2,0
+CAT,Industrials,trading_activity_rf_only,ward,2,0
+CBOE,Financials,trading_activity_rf_only,ward,2,0
+CBRE,Real Estate,trading_activity_rf_only,ward,2,0
+CDW,Information Technology,trading_activity_rf_only,ward,2,1
+COR,Health Care,trading_activity_rf_only,ward,2,1
+CNC,Health Care,trading_activity_rf_only,ward,2,0
+CNP,Utilities,trading_activity_rf_only,ward,2,0
+CF,Materials,trading_activity_rf_only,ward,2,0
+CRL,Health Care,trading_activity_rf_only,ward,2,0
+SCHW,Financials,trading_activity_rf_only,ward,2,1
+CHTR,Communication Services,trading_activity_rf_only,ward,2,0
+CVX,Energy,trading_activity_rf_only,ward,2,0
+CMG,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+CB,Financials,trading_activity_rf_only,ward,2,1
+CHD,Consumer Staples,trading_activity_rf_only,ward,2,0
+CIEN,Information Technology,trading_activity_rf_only,ward,2,0
+CI,Health Care,trading_activity_rf_only,ward,2,0
+CINF,Financials,trading_activity_rf_only,ward,2,0
+CTAS,Industrials,trading_activity_rf_only,ward,2,0
+CSCO,Information Technology,trading_activity_rf_only,ward,2,0
+C,Financials,trading_activity_rf_only,ward,2,0
+CFG,Financials,trading_activity_rf_only,ward,2,0
+CLX,Consumer Staples,trading_activity_rf_only,ward,2,0
+CME,Financials,trading_activity_rf_only,ward,2,1
+CMS,Utilities,trading_activity_rf_only,ward,2,0
+KO,Consumer Staples,trading_activity_rf_only,ward,2,0
+CTSH,Information Technology,trading_activity_rf_only,ward,2,0
+COHR,Information Technology,trading_activity_rf_only,ward,2,0
+COIN,Financials,trading_activity_rf_only,ward,2,1
+CL,Consumer Staples,trading_activity_rf_only,ward,2,0
+CMCSA,Communication Services,trading_activity_rf_only,ward,2,0
+FIX,Industrials,trading_activity_rf_only,ward,2,1
+COP,Energy,trading_activity_rf_only,ward,2,0
+ED,Utilities,trading_activity_rf_only,ward,2,0
+STZ,Consumer Staples,trading_activity_rf_only,ward,2,0
+CEG,Utilities,trading_activity_rf_only,ward,2,1
+COO,Health Care,trading_activity_rf_only,ward,2,0
+CPRT,Industrials,trading_activity_rf_only,ward,2,0
+GLW,Information Technology,trading_activity_rf_only,ward,2,0
+CPAY,Financials,trading_activity_rf_only,ward,2,0
+CSGP,Real Estate,trading_activity_rf_only,ward,2,0
+COST,Consumer Staples,trading_activity_rf_only,ward,2,0
+CRH,Materials,trading_activity_rf_only,ward,2,1
+CRWD,Information Technology,trading_activity_rf_only,ward,2,1
+CCI,Real Estate,trading_activity_rf_only,ward,2,0
+CSX,Industrials,trading_activity_rf_only,ward,2,1
+CMI,Industrials,trading_activity_rf_only,ward,2,0
+CVS,Health Care,trading_activity_rf_only,ward,2,0
+DHR,Health Care,trading_activity_rf_only,ward,2,0
+DRI,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+DDOG,Information Technology,trading_activity_rf_only,ward,2,1
+DVA,Health Care,trading_activity_rf_only,ward,2,0
+DECK,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+DE,Industrials,trading_activity_rf_only,ward,2,1
+DELL,Information Technology,trading_activity_rf_only,ward,2,1
+DAL,Industrials,trading_activity_rf_only,ward,2,0
+DVN,Energy,trading_activity_rf_only,ward,2,0
+DXCM,Health Care,trading_activity_rf_only,ward,2,0
+FANG,Energy,trading_activity_rf_only,ward,2,0
+DLR,Real Estate,trading_activity_rf_only,ward,2,0
+DG,Consumer Staples,trading_activity_rf_only,ward,2,1
+DLTR,Consumer Staples,trading_activity_rf_only,ward,2,1
+D,Utilities,trading_activity_rf_only,ward,2,1
+DPZ,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+DASH,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+DOV,Industrials,trading_activity_rf_only,ward,2,0
+DOW,Materials,trading_activity_rf_only,ward,2,0
+DHI,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+DTE,Utilities,trading_activity_rf_only,ward,2,0
+DUK,Utilities,trading_activity_rf_only,ward,2,1
+DD,Industrials,trading_activity_rf_only,ward,2,0
+ETN,Industrials,trading_activity_rf_only,ward,2,0
+EBAY,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+ECHO,Communication Services,trading_activity_rf_only,ward,2,0
+ECL,Materials,trading_activity_rf_only,ward,2,0
+EIX,Utilities,trading_activity_rf_only,ward,2,0
+EW,Health Care,trading_activity_rf_only,ward,2,0
+ELV,Health Care,trading_activity_rf_only,ward,2,1
+EME,Industrials,trading_activity_rf_only,ward,2,0
+EMR,Industrials,trading_activity_rf_only,ward,2,0
+ETR,Utilities,trading_activity_rf_only,ward,2,1
+EOG,Energy,trading_activity_rf_only,ward,2,0
+EQT,Energy,trading_activity_rf_only,ward,2,1
+EFX,Industrials,trading_activity_rf_only,ward,2,1
+EQIX,Real Estate,trading_activity_rf_only,ward,2,0
+ERIE,Financials,trading_activity_rf_only,ward,2,0
+ESS,Real Estate,trading_activity_rf_only,ward,2,0
+EL,Consumer Staples,trading_activity_rf_only,ward,2,1
+EG,Financials,trading_activity_rf_only,ward,2,0
+EVRG,Utilities,trading_activity_rf_only,ward,2,0
+P,Information Technology,trading_activity_rf_only,ward,2,0
+ES,Utilities,trading_activity_rf_only,ward,2,0
+EXC,Utilities,trading_activity_rf_only,ward,2,0
+EXE,Energy,trading_activity_rf_only,ward,2,0
+EXPE,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+EXPD,Industrials,trading_activity_rf_only,ward,2,0
+EXR,Real Estate,trading_activity_rf_only,ward,2,0
+XOM,Energy,trading_activity_rf_only,ward,2,0
+FFIV,Information Technology,trading_activity_rf_only,ward,2,0
+FDS,Financials,trading_activity_rf_only,ward,2,0
+FICO,Information Technology,trading_activity_rf_only,ward,2,1
+FAST,Industrials,trading_activity_rf_only,ward,2,0
+FRT,Real Estate,trading_activity_rf_only,ward,2,0
+FDX,Industrials,trading_activity_rf_only,ward,2,0
+FERG,Industrials,trading_activity_rf_only,ward,2,1
+FIS,Financials,trading_activity_rf_only,ward,2,0
+FITB,Financials,trading_activity_rf_only,ward,2,0
+FSLR,Information Technology,trading_activity_rf_only,ward,2,1
+FE,Utilities,trading_activity_rf_only,ward,2,0
+FISV,Financials,trading_activity_rf_only,ward,2,0
+FLEX,Information Technology,trading_activity_rf_only,ward,2,0
+F,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+FTNT,Information Technology,trading_activity_rf_only,ward,2,0
+FTV,Industrials,trading_activity_rf_only,ward,2,0
+FOXA,Communication Services,trading_activity_rf_only,ward,2,0
+FOX,Communication Services,trading_activity_rf_only,ward,2,0
+BEN,Financials,trading_activity_rf_only,ward,2,0
+FCX,Materials,trading_activity_rf_only,ward,2,1
+GRMN,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+IT,Information Technology,trading_activity_rf_only,ward,2,0
+GE,Industrials,trading_activity_rf_only,ward,2,1
+GEHC,Health Care,trading_activity_rf_only,ward,2,0
+GEV,Industrials,trading_activity_rf_only,ward,2,0
+GEN,Information Technology,trading_activity_rf_only,ward,2,0
+GNRC,Industrials,trading_activity_rf_only,ward,2,0
+GD,Industrials,trading_activity_rf_only,ward,2,0
+GIS,Consumer Staples,trading_activity_rf_only,ward,2,0
+GM,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+GPC,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+GILD,Health Care,trading_activity_rf_only,ward,2,0
+GPN,Financials,trading_activity_rf_only,ward,2,1
+GL,Financials,trading_activity_rf_only,ward,2,0
+GDDY,Information Technology,trading_activity_rf_only,ward,2,1
+GS,Financials,trading_activity_rf_only,ward,2,0
+HAL,Energy,trading_activity_rf_only,ward,2,1
+HIG,Financials,trading_activity_rf_only,ward,2,0
+HAS,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+HCA,Health Care,trading_activity_rf_only,ward,2,1
+DOC,Real Estate,trading_activity_rf_only,ward,2,0
+HSIC,Health Care,trading_activity_rf_only,ward,2,1
+HSY,Consumer Staples,trading_activity_rf_only,ward,2,0
+HPE,Information Technology,trading_activity_rf_only,ward,2,0
+HLT,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+HD,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+HON,Industrials,trading_activity_rf_only,ward,2,0
+HRL,Consumer Staples,trading_activity_rf_only,ward,2,1
+HST,Real Estate,trading_activity_rf_only,ward,2,0
+HWM,Industrials,trading_activity_rf_only,ward,2,0
+HPQ,Information Technology,trading_activity_rf_only,ward,2,1
+HUBB,Industrials,trading_activity_rf_only,ward,2,0
+HUM,Health Care,trading_activity_rf_only,ward,2,0
+HBAN,Financials,trading_activity_rf_only,ward,2,0
+HII,Industrials,trading_activity_rf_only,ward,2,0
+IBM,Information Technology,trading_activity_rf_only,ward,2,0
+IEX,Industrials,trading_activity_rf_only,ward,2,0
+IDXX,Health Care,trading_activity_rf_only,ward,2,1
+ITW,Industrials,trading_activity_rf_only,ward,2,0
+ILMN,Health Care,trading_activity_rf_only,ward,2,0
+INCY,Health Care,trading_activity_rf_only,ward,2,0
+IR,Industrials,trading_activity_rf_only,ward,2,0
+PODD,Health Care,trading_activity_rf_only,ward,2,0
+INTC,Information Technology,trading_activity_rf_only,ward,2,0
+IBKR,Financials,trading_activity_rf_only,ward,2,0
+ICE,Financials,trading_activity_rf_only,ward,2,0
+IFF,Materials,trading_activity_rf_only,ward,2,0
+IP,Materials,trading_activity_rf_only,ward,2,1
+INTU,Information Technology,trading_activity_rf_only,ward,2,1
+ISRG,Health Care,trading_activity_rf_only,ward,2,0
+IVZ,Financials,trading_activity_rf_only,ward,2,0
+INVH,Real Estate,trading_activity_rf_only,ward,2,0
+IQV,Health Care,trading_activity_rf_only,ward,2,0
+IRM,Real Estate,trading_activity_rf_only,ward,2,0
+JBHT,Industrials,trading_activity_rf_only,ward,2,0
+JBL,Information Technology,trading_activity_rf_only,ward,2,0
+JKHY,Financials,trading_activity_rf_only,ward,2,1
+J,Industrials,trading_activity_rf_only,ward,2,0
+JNJ,Health Care,trading_activity_rf_only,ward,2,0
+JCI,Industrials,trading_activity_rf_only,ward,2,1
+JPM,Financials,trading_activity_rf_only,ward,2,0
+KDP,Consumer Staples,trading_activity_rf_only,ward,2,0
+KEY,Financials,trading_activity_rf_only,ward,2,0
+KEYS,Information Technology,trading_activity_rf_only,ward,2,0
+KMB,Consumer Staples,trading_activity_rf_only,ward,2,0
+KIM,Real Estate,trading_activity_rf_only,ward,2,0
+KMI,Energy,trading_activity_rf_only,ward,2,0
+KKR,Financials,trading_activity_rf_only,ward,2,0
+KLAC,Information Technology,trading_activity_rf_only,ward,2,0
+KHC,Consumer Staples,trading_activity_rf_only,ward,2,1
+KR,Consumer Staples,trading_activity_rf_only,ward,2,0
+LHX,Industrials,trading_activity_rf_only,ward,2,0
+LH,Health Care,trading_activity_rf_only,ward,2,0
+LRCX,Information Technology,trading_activity_rf_only,ward,2,0
+LVS,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+LDOS,Industrials,trading_activity_rf_only,ward,2,0
+LEN,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+LII,Industrials,trading_activity_rf_only,ward,2,0
+LLY,Health Care,trading_activity_rf_only,ward,2,0
+LIN,Materials,trading_activity_rf_only,ward,2,0
+LYV,Communication Services,trading_activity_rf_only,ward,2,1
+LMT,Industrials,trading_activity_rf_only,ward,2,0
+L,Financials,trading_activity_rf_only,ward,2,0
+LOW,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+LULU,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+LITE,Information Technology,trading_activity_rf_only,ward,2,1
+LYB,Materials,trading_activity_rf_only,ward,2,1
+MTB,Financials,trading_activity_rf_only,ward,2,0
+MPC,Energy,trading_activity_rf_only,ward,2,0
+MAR,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+MRSH,Financials,trading_activity_rf_only,ward,2,1
+MLM,Materials,trading_activity_rf_only,ward,2,0
+MRVL,Information Technology,trading_activity_rf_only,ward,2,0
+MAS,Industrials,trading_activity_rf_only,ward,2,0
+MA,Financials,trading_activity_rf_only,ward,2,0
+MKC,Consumer Staples,trading_activity_rf_only,ward,2,1
+MCD,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+MCK,Health Care,trading_activity_rf_only,ward,2,0
+MDT,Health Care,trading_activity_rf_only,ward,2,1
+MRK,Health Care,trading_activity_rf_only,ward,2,0
+META,Communication Services,trading_activity_rf_only,ward,2,0
+MET,Financials,trading_activity_rf_only,ward,2,0
+MTD,Health Care,trading_activity_rf_only,ward,2,0
+MGM,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+MCHP,Information Technology,trading_activity_rf_only,ward,2,0
+MU,Information Technology,trading_activity_rf_only,ward,2,0
+MSFT,Information Technology,trading_activity_rf_only,ward,2,0
+MAA,Real Estate,trading_activity_rf_only,ward,2,0
+MRNA,Health Care,trading_activity_rf_only,ward,2,0
+MDLZ,Consumer Staples,trading_activity_rf_only,ward,2,0
+MPWR,Information Technology,trading_activity_rf_only,ward,2,0
+MNST,Consumer Staples,trading_activity_rf_only,ward,2,0
+MCO,Financials,trading_activity_rf_only,ward,2,0
+MS,Financials,trading_activity_rf_only,ward,2,0
+MOS,Materials,trading_activity_rf_only,ward,2,1
+MSI,Information Technology,trading_activity_rf_only,ward,2,0
+MSCI,Financials,trading_activity_rf_only,ward,2,1
+NDAQ,Financials,trading_activity_rf_only,ward,2,0
+NTAP,Information Technology,trading_activity_rf_only,ward,2,1
+NFLX,Communication Services,trading_activity_rf_only,ward,2,1
+NEM,Materials,trading_activity_rf_only,ward,2,0
+NWSA,Communication Services,trading_activity_rf_only,ward,2,0
+NWS,Communication Services,trading_activity_rf_only,ward,2,0
+NEE,Utilities,trading_activity_rf_only,ward,2,0
+NKE,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+NI,Utilities,trading_activity_rf_only,ward,2,0
+NDSN,Industrials,trading_activity_rf_only,ward,2,0
+NSC,Industrials,trading_activity_rf_only,ward,2,0
+NTRS,Financials,trading_activity_rf_only,ward,2,0
+NOC,Industrials,trading_activity_rf_only,ward,2,1
+NCLH,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+NRG,Utilities,trading_activity_rf_only,ward,2,0
+NUE,Materials,trading_activity_rf_only,ward,2,0
+NVDA,Information Technology,trading_activity_rf_only,ward,2,1
+NVR,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+NXPI,Information Technology,trading_activity_rf_only,ward,2,0
+ORLY,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+OXY,Energy,trading_activity_rf_only,ward,2,0
+OKTA,Information Technology,trading_activity_rf_only,ward,2,0
+ODFL,Industrials,trading_activity_rf_only,ward,2,0
+OMC,Communication Services,trading_activity_rf_only,ward,2,0
+ON,Information Technology,trading_activity_rf_only,ward,2,0
+OKE,Energy,trading_activity_rf_only,ward,2,0
+ORCL,Information Technology,trading_activity_rf_only,ward,2,0
+OTIS,Industrials,trading_activity_rf_only,ward,2,0
+PCAR,Industrials,trading_activity_rf_only,ward,2,0
+PKG,Materials,trading_activity_rf_only,ward,2,0
+PLTR,Information Technology,trading_activity_rf_only,ward,2,0
+PANW,Information Technology,trading_activity_rf_only,ward,2,0
+PH,Industrials,trading_activity_rf_only,ward,2,0
+PAYX,Industrials,trading_activity_rf_only,ward,2,0
+PYPL,Financials,trading_activity_rf_only,ward,2,0
+PNR,Industrials,trading_activity_rf_only,ward,2,0
+PEP,Consumer Staples,trading_activity_rf_only,ward,2,0
+PFE,Health Care,trading_activity_rf_only,ward,2,0
+PCG,Utilities,trading_activity_rf_only,ward,2,0
+PM,Consumer Staples,trading_activity_rf_only,ward,2,0
+PSX,Energy,trading_activity_rf_only,ward,2,0
+PNW,Utilities,trading_activity_rf_only,ward,2,1
+PNC,Financials,trading_activity_rf_only,ward,2,0
+PPG,Materials,trading_activity_rf_only,ward,2,0
+PPL,Utilities,trading_activity_rf_only,ward,2,0
+PFG,Financials,trading_activity_rf_only,ward,2,0
+PG,Consumer Staples,trading_activity_rf_only,ward,2,0
+PGR,Financials,trading_activity_rf_only,ward,2,1
+PLD,Real Estate,trading_activity_rf_only,ward,2,0
+PRU,Financials,trading_activity_rf_only,ward,2,0
+PTC,Information Technology,trading_activity_rf_only,ward,2,0
+PEG,Utilities,trading_activity_rf_only,ward,2,0
+PSA,Real Estate,trading_activity_rf_only,ward,2,0
+PHM,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+QCOM,Information Technology,trading_activity_rf_only,ward,2,0
+PWR,Industrials,trading_activity_rf_only,ward,2,0
+DGX,Health Care,trading_activity_rf_only,ward,2,1
+RL,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+RJF,Financials,trading_activity_rf_only,ward,2,0
+RDDT,Communication Services,trading_activity_rf_only,ward,2,0
+O,Real Estate,trading_activity_rf_only,ward,2,0
+REG,Real Estate,trading_activity_rf_only,ward,2,0
+REGN,Health Care,trading_activity_rf_only,ward,2,0
+RF,Financials,trading_activity_rf_only,ward,2,0
+RSG,Industrials,trading_activity_rf_only,ward,2,0
+RMD,Health Care,trading_activity_rf_only,ward,2,0
+RVTY,Health Care,trading_activity_rf_only,ward,2,0
+HOOD,Financials,trading_activity_rf_only,ward,2,1
+ROK,Industrials,trading_activity_rf_only,ward,2,0
+ROL,Industrials,trading_activity_rf_only,ward,2,0
+ROP,Information Technology,trading_activity_rf_only,ward,2,0
+ROST,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+RCL,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+RTX,Industrials,trading_activity_rf_only,ward,2,0
+SPGI,Financials,trading_activity_rf_only,ward,2,0
+CRM,Information Technology,trading_activity_rf_only,ward,2,0
+SBAC,Real Estate,trading_activity_rf_only,ward,2,0
+SLB,Energy,trading_activity_rf_only,ward,2,0
+STX,Information Technology,trading_activity_rf_only,ward,2,0
+SRE,Utilities,trading_activity_rf_only,ward,2,0
+NOW,Information Technology,trading_activity_rf_only,ward,2,1
+SHW,Materials,trading_activity_rf_only,ward,2,1
+SPG,Real Estate,trading_activity_rf_only,ward,2,0
+SKYD,Communication Services,trading_activity_rf_only,ward,2,1
+SWKS,Information Technology,trading_activity_rf_only,ward,2,0
+SJM,Consumer Staples,trading_activity_rf_only,ward,2,1
+SW,Materials,trading_activity_rf_only,ward,2,0
+SNA,Industrials,trading_activity_rf_only,ward,2,0
+SOLV,Health Care,trading_activity_rf_only,ward,2,0
+SO,Utilities,trading_activity_rf_only,ward,2,1
+LUV,Industrials,trading_activity_rf_only,ward,2,0
+SWK,Industrials,trading_activity_rf_only,ward,2,0
+SBUX,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+STT,Financials,trading_activity_rf_only,ward,2,0
+STLD,Materials,trading_activity_rf_only,ward,2,0
+STE,Health Care,trading_activity_rf_only,ward,2,0
+SYK,Health Care,trading_activity_rf_only,ward,2,0
+SMCI,Information Technology,trading_activity_rf_only,ward,2,0
+SYF,Financials,trading_activity_rf_only,ward,2,0
+SNPS,Information Technology,trading_activity_rf_only,ward,2,0
+SYY,Consumer Staples,trading_activity_rf_only,ward,2,0
+TMUS,Communication Services,trading_activity_rf_only,ward,2,0
+TROW,Financials,trading_activity_rf_only,ward,2,0
+TTWO,Communication Services,trading_activity_rf_only,ward,2,0
+TPR,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+TRGP,Energy,trading_activity_rf_only,ward,2,0
+TGT,Consumer Staples,trading_activity_rf_only,ward,2,1
+TEL,Information Technology,trading_activity_rf_only,ward,2,0
+TDY,Information Technology,trading_activity_rf_only,ward,2,0
+TER,Information Technology,trading_activity_rf_only,ward,2,0
+TSLA,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+TXN,Information Technology,trading_activity_rf_only,ward,2,1
+TPL,Energy,trading_activity_rf_only,ward,2,0
+TXT,Industrials,trading_activity_rf_only,ward,2,0
+TMO,Health Care,trading_activity_rf_only,ward,2,1
+TJX,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+TKO,Communication Services,trading_activity_rf_only,ward,2,0
+TSCO,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+TT,Industrials,trading_activity_rf_only,ward,2,0
+TDG,Industrials,trading_activity_rf_only,ward,2,0
+TRV,Financials,trading_activity_rf_only,ward,2,1
+TRMB,Information Technology,trading_activity_rf_only,ward,2,0
+TFC,Financials,trading_activity_rf_only,ward,2,1
+TWLO,Information Technology,trading_activity_rf_only,ward,2,0
+TYL,Information Technology,trading_activity_rf_only,ward,2,1
+TSN,Consumer Staples,trading_activity_rf_only,ward,2,0
+USB,Financials,trading_activity_rf_only,ward,2,0
+UBER,Industrials,trading_activity_rf_only,ward,2,0
+UDR,Real Estate,trading_activity_rf_only,ward,2,0
+ULTA,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+UNP,Industrials,trading_activity_rf_only,ward,2,0
+UAL,Industrials,trading_activity_rf_only,ward,2,0
+UPS,Industrials,trading_activity_rf_only,ward,2,0
+URI,Industrials,trading_activity_rf_only,ward,2,0
+UNH,Health Care,trading_activity_rf_only,ward,2,0
+UHS,Health Care,trading_activity_rf_only,ward,2,0
+VLO,Energy,trading_activity_rf_only,ward,2,0
+VEEV,Health Care,trading_activity_rf_only,ward,2,0
+VTR,Real Estate,trading_activity_rf_only,ward,2,0
+VLTO,Industrials,trading_activity_rf_only,ward,2,0
+VRSN,Information Technology,trading_activity_rf_only,ward,2,0
+VRSK,Industrials,trading_activity_rf_only,ward,2,0
+VZ,Communication Services,trading_activity_rf_only,ward,2,0
+VRTX,Health Care,trading_activity_rf_only,ward,2,0
+VRT,Industrials,trading_activity_rf_only,ward,2,1
+VTRS,Health Care,trading_activity_rf_only,ward,2,0
+VICI,Real Estate,trading_activity_rf_only,ward,2,0
+V,Financials,trading_activity_rf_only,ward,2,0
+VST,Utilities,trading_activity_rf_only,ward,2,1
+VMRK,Real Estate,trading_activity_rf_only,ward,2,0
+VMC,Materials,trading_activity_rf_only,ward,2,0
+WRB,Financials,trading_activity_rf_only,ward,2,0
+GWW,Industrials,trading_activity_rf_only,ward,2,0
+WAB,Industrials,trading_activity_rf_only,ward,2,0
+WMT,Consumer Staples,trading_activity_rf_only,ward,2,0
+DIS,Communication Services,trading_activity_rf_only,ward,2,0
+WM,Industrials,trading_activity_rf_only,ward,2,0
+WAT,Health Care,trading_activity_rf_only,ward,2,0
+WEC,Utilities,trading_activity_rf_only,ward,2,1
+WFC,Financials,trading_activity_rf_only,ward,2,0
+WELL,Real Estate,trading_activity_rf_only,ward,2,0
+WST,Health Care,trading_activity_rf_only,ward,2,0
+WDC,Information Technology,trading_activity_rf_only,ward,2,0
+WY,Real Estate,trading_activity_rf_only,ward,2,0
+WSM,Consumer Discretionary,trading_activity_rf_only,ward,2,0
+WMB,Energy,trading_activity_rf_only,ward,2,0
+WTW,Financials,trading_activity_rf_only,ward,2,0
+WDAY,Information Technology,trading_activity_rf_only,ward,2,0
+WYNN,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+XEL,Utilities,trading_activity_rf_only,ward,2,0
+XYL,Industrials,trading_activity_rf_only,ward,2,1
+YUM,Consumer Discretionary,trading_activity_rf_only,ward,2,1
+ZBRA,Information Technology,trading_activity_rf_only,ward,2,0
+ZBH,Health Care,trading_activity_rf_only,ward,2,0
+ZTS,Health Care,trading_activity_rf_only,ward,2,0
